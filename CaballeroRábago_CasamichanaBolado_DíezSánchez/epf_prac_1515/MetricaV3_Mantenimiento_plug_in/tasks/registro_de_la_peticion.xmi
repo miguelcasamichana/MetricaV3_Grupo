@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GSNX4aFRgIqQQSB7ivrY7Q" name=",_0P94AEOaEeu3HJm-bTROfg" guid="-GSNX4aFRgIqQQSB7ivrY7Q">
+  <sections xmi:id="_fCzPUEOdEeu3HJm-bTROfg" name="Recibir input" guid="_fCzPUEOdEeu3HJm-bTROfg"/>
+  <sections xmi:id="_nbA3cEOdEeu3HJm-bTROfg" name="Crear borrador del catálogo" guid="_nbA3cEOdEeu3HJm-bTROfg"/>
+  <sections xmi:id="_pLAOYEOdEeu3HJm-bTROfg" name="Recoger identificación" guid="_pLAOYEOdEeu3HJm-bTROfg"/>
+  <sections xmi:id="_pWNG4EOfEeuqG6BlZi_RfA" name="Recoger origen" guid="_pWNG4EOfEeuqG6BlZi_RfA"/>
+  <sections xmi:id="_q9AFkEOfEeuqG6BlZi_RfA" name="Recoger tipo de petición" guid="_q9AFkEOfEeuqG6BlZi_RfA"/>
+  <sections xmi:id="_r9BYIEOfEeuqG6BlZi_RfA" name="Asignar prioridad inicial" guid="_r9BYIEOfEeuqG6BlZi_RfA"/>
+  <sections xmi:id="_t4eYMEOfEeuqG6BlZi_RfA" name="Incorporar una descripción" guid="_t4eYMEOfEeuqG6BlZi_RfA"/>
+</org.eclipse.epf.uma:TaskDescription>

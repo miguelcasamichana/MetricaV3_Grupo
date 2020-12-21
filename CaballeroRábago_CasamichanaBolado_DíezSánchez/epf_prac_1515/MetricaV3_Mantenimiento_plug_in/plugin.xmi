@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Z0uIQEOaEeu3HJm-bTROfg" guid="_Z0uIQEOaEeu3HJm-bTROfg">
+    <subManagers xmi:id="_G8y70EOhEeuqG6BlZi_RfA" href="uma://_G8A4sEOhEeuqG6BlZi_RfA#_G8y70EOhEeuqG6BlZi_RfA"/>
+    <resourceDescriptors xmi:id="_HKyRUEOdEeu3HJm-bTROfg" id="-GSNX4aFRgIqQQSB7ivrY7Q" uri="tasks/registro_de_la_peticion.xmi"/>
+    <resourceDescriptors xmi:id="_wPXhoEOgEeuqG6BlZi_RfA" id="-60Ajr3AGDmIR9e5X2ZZs1w" uri="guidances/practices/catalogacion.xmi"/>
+    <resourceDescriptors xmi:id="_G8s1MEOhEeuqG6BlZi_RfA" id="_G8A4sEOhEeuqG6BlZi_RfA" uri="deliveryprocesses/MSI/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_Zz8sMEOaEeu3HJm-bTROfg" name="MetricaV3_Mantenimiento_plug_in" guid="_Zz8sMEOaEeu3HJm-bTROfg" briefDescription="Este plug in contiene toda la configuración desarrollada durante la práctica &quot;METRICA_V3_Mantenimiento_de_Sistemas_de_Informacion&quot;." authors="Caballero Rábago, Manuel&#xD;&#xA;Casamichana Bolado, Miguel&#xD;&#xA;Sánchez Díez, Daniel">
+    <methodElementProperty xmi:id="_Z0vWYEOaEeu3HJm-bTROfg" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sMUOaEeu3HJm-bTROfg" name="Content" guid="_Zz8sMUOaEeu3HJm-bTROfg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sMkOaEeu3HJm-bTROfg" name="Categories" guid="_Zz8sMkOaEeu3HJm-bTROfg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sM0OaEeu3HJm-bTROfg" name="Domains" guid="_Zz8sM0OaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNEOaEeu3HJm-bTROfg" name="Disciplines" guid="_Zz8sNEOaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNUOaEeu3HJm-bTROfg" name="RoleSets" guid="_Zz8sNUOaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNkOaEeu3HJm-bTROfg" name="WP Types" guid="_Zz8sNkOaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sN0OaEeu3HJm-bTROfg" name="Tools" guid="_Zz8sN0OaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sOEOaEeu3HJm-bTROfg" name="StandardCategories" guid="_Zz8sOEOaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sOUOaEeu3HJm-bTROfg" name="CustomCategories" guid="_Zz8sOUOaEeu3HJm-bTROfg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sOkOaEeu3HJm-bTROfg" name="Hidden" guid="_Zz8sOkOaEeu3HJm-bTROfg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Zz8sO0OaEeu3HJm-bTROfg" name="Custom Categories" guid="_Zz8sO0OaEeu3HJm-bTROfg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sPEOaEeu3HJm-bTROfg" name="CoreContent" guid="_Zz8sPEOaEeu3HJm-bTROfg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fhnZoEOaEeu3HJm-bTROfg" name="msi" guid="_fhnZoEOaEeu3HJm-bTROfg" presentationName="MSI">
+          <methodElementProperty xmi:id="_fhoAsEOaEeu3HJm-bTROfg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_uR260EOaEeu3HJm-bTROfg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vTVl8EOaEeu3HJm-bTROfg" name="catalogo_de_peticiones" guid="_vTVl8EOaEeu3HJm-bTROfg" presentationName="Catálogo de Peticiones">
+            <methodElementProperty xmi:id="_yyUOQEOaEeu3HJm-bTROfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0P94AEOaEeu3HJm-bTROfg" name="registro_de_la_peticion" guid="_0P94AEOaEeu3HJm-bTROfg" presentationName="Registro de la peticion" performedBy="_Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_okFDMEObEeu3HJm-bTROfg" output="_vTVl8EOaEeu3HJm-bTROfg">
+            <methodElementProperty xmi:id="_DNhccEObEeu3HJm-bTROfg" name="me_edited" value="true"/>
+            <presentation xmi:id="-GSNX4aFRgIqQQSB7ivrY7Q" href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#-GSNX4aFRgIqQQSB7ivrY7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gao4sEObEeu3HJm-bTROfg" name="responsable_de_mantenimiento" guid="_Gao4sEObEeu3HJm-bTROfg" presentationName="Responsable de mantenimiento">
+            <methodElementProperty xmi:id="_Ht86sEObEeu3HJm-bTROfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_okFDMEObEeu3HJm-bTROfg" name="peticion_mantenimiento" guid="_okFDMEObEeu3HJm-bTROfg" presentationName="Peticion Mantenimiento" briefDescription="Petición externa que realiza el usuario para realizar un control de mantenimiento a los cambios que se hayan realizado recientemente.">
+            <methodElementProperty xmi:id="_1UhP0EObEeu3HJm-bTROfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_gOQgYEOeEeu3HJm-bTROfg" name="catalogacion" guid="_gOQgYEOeEeu3HJm-bTROfg" presentationName="Catalogacion" briefDescription="ae">
+            <methodElementProperty xmi:id="_gOlQgEOeEeu3HJm-bTROfg" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_hrhIkEOeEeu3HJm-bTROfg" name="me_edited" value="true"/>
+            <presentation xmi:id="-60Ajr3AGDmIR9e5X2ZZs1w" href="uma://-60Ajr3AGDmIR9e5X2ZZs1w#-60Ajr3AGDmIR9e5X2ZZs1w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__OsyQEOhEeuqG6BlZi_RfA" name="new_concept" guid="__OsyQEOhEeuqG6BlZi_RfA" presentationName="New Concept"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Zz8sPUOaEeu3HJm-bTROfg" name="CapabilityPatterns" guid="_Zz8sPUOaEeu3HJm-bTROfg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Zz8sPkOaEeu3HJm-bTROfg" name="DeliveryProcesses" guid="_Zz8sPkOaEeu3HJm-bTROfg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_G8A4sEOhEeuqG6BlZi_RfA" href="uma://_G8A4sEOhEeuqG6BlZi_RfA#_G8A4sEOhEeuqG6BlZi_RfA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Zz8sP0OaEeu3HJm-bTROfg" name="ProcessContributions" guid="_Zz8sP0OaEeu3HJm-bTROfg"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
