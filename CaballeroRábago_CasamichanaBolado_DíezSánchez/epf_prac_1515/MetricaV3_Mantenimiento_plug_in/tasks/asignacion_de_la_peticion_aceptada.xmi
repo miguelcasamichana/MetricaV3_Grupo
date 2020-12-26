@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-us_quyG8HP-qXD2ThPH4PQ" name=",_whCigEeoEeuaEpjJwJueTw" guid="-us_quyG8HP-qXD2ThPH4PQ">
+  <sections xmi:id="_XuINEEepEeuaEpjJwJueTw" name="Identificar sistemas de información" guid="_XuINEEepEeuaEpjJwJueTw"/>
+  <sections xmi:id="_aLBtUEepEeuaEpjJwJueTw" name="Comprobar cobertura del sistema" guid="_aLBtUEepEeuaEpjJwJueTw"/>
+  <sections xmi:id="_dReg4EepEeuaEpjJwJueTw" name="Se acepta la petición" guid="_dReg4EepEeuaEpjJwJueTw"/>
+  <sections xmi:id="_Z0OE8EerEeuaEpjJwJueTw" name="Se notifica" guid="_Z0OE8EerEeuaEpjJwJueTw"/>
+  <sections xmi:id="_hhFU4EepEeuaEpjJwJueTw" name="Se asigna un responsable" guid="_hhFU4EepEeuaEpjJwJueTw"/>
+</org.eclipse.epf.uma:TaskDescription>
