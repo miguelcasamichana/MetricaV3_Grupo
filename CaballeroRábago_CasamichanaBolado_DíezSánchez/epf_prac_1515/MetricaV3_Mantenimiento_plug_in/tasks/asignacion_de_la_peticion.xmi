@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-us_quyG8HP-qXD2ThPH4PQ" name="asignacion_de_la_peticion,_whCigEeoEeuaEpjJwJueTw" guid="-us_quyG8HP-qXD2ThPH4PQ" changeDate="2020-12-28T13:16:49.917+0100">
+  <mainDescription>&lt;p>&#xD;
+    Con esta tarea se pretende anallizar los criterios necesarios para aceptar o rechazar la peticion de mantenimiento. En&#xD;
+    caso positivo se asigna un responsable a esa petición y en caso negativo no se hace más.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Por lo tanto, en vez de definir esta tarea como dos ramas (una si se acepta y otra si se rechaza) se queda como una&#xD;
+    sola, ya que al rechazar la petición no tiene sentido dividir el flujo de trabajo.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_XuINEEepEeuaEpjJwJueTw" name="Identificar sistemas de información" guid="_XuINEEepEeuaEpjJwJueTw"/>
+  <sections xmi:id="_aLBtUEepEeuaEpjJwJueTw" name="Comprobar cobertura del sistema" guid="_aLBtUEepEeuaEpjJwJueTw"/>
+  <sections xmi:id="_dReg4EepEeuaEpjJwJueTw" name="Se acepta la petición" guid="_dReg4EepEeuaEpjJwJueTw"/>
+  <sections xmi:id="_Z0OE8EerEeuaEpjJwJueTw" name="Se notifica" guid="_Z0OE8EerEeuaEpjJwJueTw"/>
+  <sections xmi:id="_hhFU4EepEeuaEpjJwJueTw" name="Se asigna un responsable" guid="_hhFU4EepEeuaEpjJwJueTw"/>
+  <purpose>&lt;p>&#xD;
+    Asignar un responsable a la petición en caso de ser aceptada.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

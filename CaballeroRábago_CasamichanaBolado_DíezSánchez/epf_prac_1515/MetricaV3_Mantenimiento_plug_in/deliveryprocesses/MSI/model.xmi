@@ -2,13 +2,46 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_G8y70EOhEeuqG6BlZi_RfA" guid="_G8y70EOhEeuqG6BlZi_RfA">
     <resourceDescriptors xmi:id="_G8zi4EOhEeuqG6BlZi_RfA" id="-H_CL9cLhZBnzH2nbTh2scg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_kyTe4Eh2EeuxjY-rtmALYg" id="-AQtLm3zYmbl15MkXaadWHw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_kyYXYEh2EeuxjY-rtmALYg" id="-kmMtLeWvk-3DhMzN-uEqgA" uri="content.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_G8A4sEOhEeuqG6BlZi_RfA" name="MSI" guid="_G8A4sEOhEeuqG6BlZi_RfA">
     <methodElementProperty xmi:id="_G8BfwEOhEeuqG6BlZi_RfA" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_0inDAEOhEeuqG6BlZi_RfA" name="me_edited" value="true"/>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_K-WswEOhEeuqG6BlZi_RfA" name="Mantenimiento" guid="_K-WswEOhEeuqG6BlZi_RfA">
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_K-WswUOhEeuqG6BlZi_RfA" name="Mantenimiento" guid="_K-WswUOhEeuqG6BlZi_RfA" presentationName="Mantenimiento" superActivities="_G8A4sUOhEeuqG6BlZi_RfA" breakdownElements="_5d0YwEOhEeuqG6BlZi_RfA"/>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5d0YwEOhEeuqG6BlZi_RfA" name="Registro de la petición" guid="_5d0YwEOhEeuqG6BlZi_RfA" presentationName="Registro de la petición" superActivities="_K-WswUOhEeuqG6BlZi_RfA" isSynchronizedWithSource="false"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yGShoEhvEeuxjY-rtmALYg" name="Registro de la peticion´" guid="_yGShoEhvEeuxjY-rtmALYg">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_yGShoUhvEeuxjY-rtmALYg" name="Registro de la peticion´" guid="_yGShoUhvEeuxjY-rtmALYg" presentationName="Registro de la peticion" superActivities="_K-WswUOhEeuqG6BlZi_RfA" breakdownElements="_EabK4EhxEeuxjY-rtmALYg _EabK4UhxEeuxjY-rtmALYg _Eabx8EhxEeuxjY-rtmALYg _Eabx8khxEeuxjY-rtmALYg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EabK4EhxEeuxjY-rtmALYg" name="registro_de_la_peticion" guid="_EabK4EhxEeuxjY-rtmALYg" presentationName="Registro de la peticion" briefDescription="Tarea para registrar peticiones de los usuarios." superActivities="_yGShoUhvEeuxjY-rtmALYg" mandatoryInput="_Eabx8EhxEeuxjY-rtmALYg" output="_Eabx8khxEeuxjY-rtmALYg" performedPrimarilyBy="_EabK4UhxEeuxjY-rtmALYg">
+          <methodElementProperty xmi:id="_EakU0EhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-AQtLm3zYmbl15MkXaadWHw" href="uma://-H_CL9cLhZBnzH2nbTh2scg#-AQtLm3zYmbl15MkXaadWHw"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_0P94AEOaEeu3HJm-bTROfg"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_fCzPUEOdEeu3HJm-bTROfg"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_nbA3cEOdEeu3HJm-bTROfg"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_pLAOYEOdEeu3HJm-bTROfg"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_pWNG4EOfEeuqG6BlZi_RfA"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_q9AFkEOfEeuqG6BlZi_RfA"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_r9BYIEOfEeuqG6BlZi_RfA"/>
+          <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_t4eYMEOfEeuqG6BlZi_RfA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_EabK4UhxEeuxjY-rtmALYg" name="responsable_de_mantenimiento" guid="_EabK4UhxEeuxjY-rtmALYg" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software." isPlanned="false" superActivities="_yGShoUhvEeuxjY-rtmALYg" modifies="_Eabx8khxEeuxjY-rtmALYg">
+          <methodElementProperty xmi:id="_EabK4khxEeuxjY-rtmALYg" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_Eali8EhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-kmMtLeWvk-3DhMzN-uEqgA" href="uma://-H_CL9cLhZBnzH2nbTh2scg#-kmMtLeWvk-3DhMzN-uEqgA"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Gao4sEObEeu3HJm-bTROfg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Eabx8EhxEeuxjY-rtmALYg" name="peticion_mantenimiento" guid="_Eabx8EhxEeuxjY-rtmALYg" presentationName="Peticion Mantenimiento" briefDescription="Petición externa que realiza el usuario para realizar un control de mantenimiento a los cambios que se hayan realizado recientemente." isPlanned="false" superActivities="_yGShoUhvEeuxjY-rtmALYg">
+          <methodElementProperty xmi:id="_Eabx8UhxEeuxjY-rtmALYg" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_EamxEEhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_okFDMEObEeu3HJm-bTROfg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Eabx8khxEeuxjY-rtmALYg" name="catalogo_de_peticiones" guid="_Eabx8khxEeuxjY-rtmALYg" presentationName="Catálogo de Peticiones" briefDescription="Catálogo que servirá de base para abordar, en tareas posteriores, el análisis de la petición,&#xD;&#xA;realizar la modificación solicitada y proporcionar datos estadísticos sobre peticiones recibidas o&#xD;&#xA;atendidas." isPlanned="false" superActivities="_yGShoUhvEeuxjY-rtmALYg">
+          <methodElementProperty xmi:id="_Eabx80hxEeuxjY-rtmALYg" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_EamxEUhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_vTVl8EOaEeu3HJm-bTROfg"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_K-WswUOhEeuqG6BlZi_RfA" name="Mantenimiento" guid="_K-WswUOhEeuqG6BlZi_RfA" presentationName="Mantenimiento" superActivities="_G8A4sUOhEeuqG6BlZi_RfA" breakdownElements="_yGShoUhvEeuxjY-rtmALYg"/>
     </childPackages>
     <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_G8A4sUOhEeuqG6BlZi_RfA" name="MSI" guid="_G8A4sUOhEeuqG6BlZi_RfA" presentationName="MSI" breakdownElements="_K-WswUOhEeuqG6BlZi_RfA">
       <presentation xmi:id="-H_CL9cLhZBnzH2nbTh2scg" href="uma://-H_CL9cLhZBnzH2nbTh2scg#-H_CL9cLhZBnzH2nbTh2scg"/>

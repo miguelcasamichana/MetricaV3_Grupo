@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cjclotKZNVXbAf7dN81lbA" name=",_KFVfMEk1EeuUcMl77XK-lQ" guid="-cjclotKZNVXbAf7dN81lbA">
+  <sections xmi:id="_Sf4-wEk3EeuUcMl77XK-lQ" name="Analizar relacion entre peticiones y decidir cuales atender" guid="_Sf4-wEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_cC7bQEk3EeuUcMl77XK-lQ" name="Asignar prioridades y sevuencia a las peticiones" guid="_cC7bQEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_0A9hsEk3EeuUcMl77XK-lQ" name="Concretar los requisitos para cada petición" guid="_0A9hsEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_29kcwEk3EeuUcMl77XK-lQ" name="Comprobar la existencia de otras peticiones en curso que afecten" guid="_29kcwEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_tXAVsEk4EeuUcMl77XK-lQ" name="Hacer estimacion del esfuerzo requerido" guid="_tXAVsEk4EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_4-krMEk3EeuUcMl77XK-lQ" name="Analizar el impacto que tengan los cambios en el entorno tecnológico" guid="_4-krMEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_MOHCMEk4EeuUcMl77XK-lQ" name="Estudiar procedimiento según la política de versiones" guid="_MOHCMEk4EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_V7iJwEk4EeuUcMl77XK-lQ" name="Incorporación o eliminación" guid="_V7iJwEk4EeuUcMl77XK-lQ">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>Si se trata de una incorporación o&lt;br />&#xD;
+    eliminación, se determina la necesidad de llevar a cabo algunas actividades del proceso Análisis&lt;br />&#xD;
+    del Sistema de Información de modo previo a la identificación de los elementos afectados.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>Igualmente, se puede tomar la decisión de abordar el proceso Estudio de Viabilidad del&#xD;
+    Sistema&lt;br />&#xD;
+    atendiendo a los requisitos a cubrir, al alcance de la modificación, a las implicaciones en el&lt;br />&#xD;
+    entorno tecnológico, y al ciclo de vida estimado para los sistemas de información afectados, así&lt;br />&#xD;
+    como a la existencia de opciones de mercado más idóneas.&lt;/span>&lt;br     style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+    &lt;br     style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_5SyyQEk4EeuUcMl77XK-lQ" name="Propuesta de soluciones alternativas" guid="_5SyyQEk4EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_6uMZQEk4EeuUcMl77XK-lQ" name="Eleccion de solucion y aceptacion o rechazo de la petición" guid="_6uMZQEk4EeuUcMl77XK-lQ">
+    <sectionDescription>Al igual que anteriormente, al haber dos formas de mantenimiento se da lugar a dos formas diferentes de hacer esta tarea:&#xD;
+de forma correctiva o evolutiva</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

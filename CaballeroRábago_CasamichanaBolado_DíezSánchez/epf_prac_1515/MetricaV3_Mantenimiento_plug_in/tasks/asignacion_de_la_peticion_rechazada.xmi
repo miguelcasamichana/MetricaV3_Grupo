@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IVRAm1h8FqYSE6eYGm5XHQ" name=",_EqkxsEerEeuaEpjJwJueTw" guid="-IVRAm1h8FqYSE6eYGm5XHQ">
-  <sections xmi:id="_RChl0EerEeuaEpjJwJueTw" name="Identificar sistemas de información" guid="_RChl0EerEeuaEpjJwJueTw"/>
-  <sections xmi:id="_TB9uAEerEeuaEpjJwJueTw" name="Comprobar cobertura del sistema" guid="_TB9uAEerEeuaEpjJwJueTw"/>
-  <sections xmi:id="_Vxf2YEerEeuaEpjJwJueTw" name="Se rechaza la petición" guid="_Vxf2YEerEeuaEpjJwJueTw"/>
-  <sections xmi:id="_YSyHYEerEeuaEpjJwJueTw" name="Se notifica " guid="_YSyHYEerEeuaEpjJwJueTw"/>
-</org.eclipse.epf.uma:TaskDescription>

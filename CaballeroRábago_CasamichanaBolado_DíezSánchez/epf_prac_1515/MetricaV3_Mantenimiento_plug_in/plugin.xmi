@@ -4,8 +4,13 @@
     <subManagers xmi:id="_G8y70EOhEeuqG6BlZi_RfA" href="uma://_G8A4sEOhEeuqG6BlZi_RfA#_G8y70EOhEeuqG6BlZi_RfA"/>
     <resourceDescriptors xmi:id="_HKyRUEOdEeu3HJm-bTROfg" id="-GSNX4aFRgIqQQSB7ivrY7Q" uri="tasks/registro_de_la_peticion.xmi"/>
     <resourceDescriptors xmi:id="_G8s1MEOhEeuqG6BlZi_RfA" id="_G8A4sEOhEeuqG6BlZi_RfA" uri="deliveryprocesses/MSI/model.xmi"/>
-    <resourceDescriptors xmi:id="_dCBvoEepEeuaEpjJwJueTw" id="-us_quyG8HP-qXD2ThPH4PQ" uri="tasks/asignacion_de_la_peticion_aceptada.xmi"/>
-    <resourceDescriptors xmi:id="_ZTpHcEerEeuaEpjJwJueTw" id="-IVRAm1h8FqYSE6eYGm5XHQ" uri="tasks/asignacion_de_la_peticion_rechazada.xmi"/>
+    <resourceDescriptors xmi:id="_dCBvoEepEeuaEpjJwJueTw" id="-us_quyG8HP-qXD2ThPH4PQ" uri="tasks/asignacion_de_la_peticion.xmi"/>
+    <resourceDescriptors xmi:id="_7GOxwEhnEeuBA--oqPZ12w" id="-pjb0ITV_-TS2HIFmrdabBA" uri="roles/responsable_de_mantenimiento.xmi"/>
+    <resourceDescriptors xmi:id="_kglKkEkXEeuUcMl77XK-lQ" id="-iOwmbDyTWQzl0Rc3H0JHWw" uri="roles/responsable_de_la_peticion.xmi"/>
+    <resourceDescriptors xmi:id="_dQsNsEkdEeuUcMl77XK-lQ" id="-TLB9nV4A1GBbzut0kYocKg" uri="tasks/verificacion_estudio_peticion_correctivo.xmi"/>
+    <resourceDescriptors xmi:id="_0GgiUEkyEeuUcMl77XK-lQ" id="-OBtM02nZ7y25YbB7qkdxCQ" uri="tasks/verificacion_estudio_peticion_evolutivo.xmi"/>
+    <resourceDescriptors xmi:id="_OpUq8Ek5EeuUcMl77XK-lQ" id="-cjclotKZNVXbAf7dN81lbA" uri="tasks/estudio_propuesta_solucion_evolutivo.xmi"/>
+    <resourceDescriptors xmi:id="_8UArEEk5EeuUcMl77XK-lQ" id="-wuJKxLpbqRFQEkxFlNRDXQ" uri="tasks/estudio_propuesta_solucion_correctivo.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_Zz8sMEOaEeu3HJm-bTROfg" name="MetricaV3_Mantenimiento_plug_in" guid="_Zz8sMEOaEeu3HJm-bTROfg" briefDescription="Este plug in contiene toda la configuración desarrollada durante la práctica &quot;METRICA_V3_Mantenimiento_de_Sistemas_de_Informacion&quot;." authors="Caballero Rábago, Manuel&#xD;&#xA;Casamichana Bolado, Miguel&#xD;&#xA;Sánchez Díez, Daniel">
     <methodElementProperty xmi:id="_Z0vWYEOaEeu3HJm-bTROfg" name="plugin_synFree" value="true"/>
@@ -27,38 +32,33 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fhnZoEOaEeu3HJm-bTROfg" name="msi" guid="_fhnZoEOaEeu3HJm-bTROfg" presentationName="MSI">
           <methodElementProperty xmi:id="_fhoAsEOaEeu3HJm-bTROfg" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_uR260EOaEeu3HJm-bTROfg" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vTVl8EOaEeu3HJm-bTROfg" name="catalogo_de_peticiones" guid="_vTVl8EOaEeu3HJm-bTROfg" presentationName="Catálogo de Peticiones">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vTVl8EOaEeu3HJm-bTROfg" name="catalogo_de_peticiones" guid="_vTVl8EOaEeu3HJm-bTROfg" presentationName="Catálogo de Peticiones" briefDescription="Catálogo que servirá de base para abordar, en tareas posteriores, el análisis de la petición,&#xD;&#xA;realizar la modificación solicitada y proporcionar datos estadísticos sobre peticiones recibidas o&#xD;&#xA;atendidas.">
             <methodElementProperty xmi:id="_yyUOQEOaEeu3HJm-bTROfg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0P94AEOaEeu3HJm-bTROfg" name="registro_de_la_peticion" guid="_0P94AEOaEeu3HJm-bTROfg" presentationName="Registro de la peticion" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" performedBy="_Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_okFDMEObEeu3HJm-bTROfg" output="_vTVl8EOaEeu3HJm-bTROfg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0P94AEOaEeu3HJm-bTROfg" name="registro_de_la_peticion" guid="_0P94AEOaEeu3HJm-bTROfg" presentationName="Registro de la peticion" briefDescription="Tarea para registrar peticiones de los usuarios." conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" performedBy="_Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_okFDMEObEeu3HJm-bTROfg" output="_vTVl8EOaEeu3HJm-bTROfg">
             <methodElementProperty xmi:id="_DNhccEObEeu3HJm-bTROfg" name="me_edited" value="true"/>
             <presentation xmi:id="-GSNX4aFRgIqQQSB7ivrY7Q" href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#-GSNX4aFRgIqQQSB7ivrY7Q"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gao4sEObEeu3HJm-bTROfg" name="responsable_de_mantenimiento" guid="_Gao4sEObEeu3HJm-bTROfg" presentationName="Responsable de mantenimiento">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gao4sEObEeu3HJm-bTROfg" name="responsable_de_mantenimiento" guid="_Gao4sEObEeu3HJm-bTROfg" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software.">
             <methodElementProperty xmi:id="_Ht86sEObEeu3HJm-bTROfg" name="me_edited" value="true"/>
+            <presentation xmi:id="-pjb0ITV_-TS2HIFmrdabBA" href="uma://-pjb0ITV_-TS2HIFmrdabBA#-pjb0ITV_-TS2HIFmrdabBA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_okFDMEObEeu3HJm-bTROfg" name="peticion_mantenimiento" guid="_okFDMEObEeu3HJm-bTROfg" presentationName="Peticion Mantenimiento" briefDescription="Petición externa que realiza el usuario para realizar un control de mantenimiento a los cambios que se hayan realizado recientemente.">
             <methodElementProperty xmi:id="_1UhP0EObEeu3HJm-bTROfg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__OsyQEOhEeuqG6BlZi_RfA" name="catalogacion" guid="__OsyQEOhEeuqG6BlZi_RfA" presentationName="Catalogación">
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__OsyQEOhEeuqG6BlZi_RfA" name="catalogacion" guid="__OsyQEOhEeuqG6BlZi_RfA" presentationName="Catalogación" briefDescription="Pasos y estructura que hay que seguir para que se lleve a cabo el procesamiento de la información de una manera organizada y limpia.">
             <methodElementProperty xmi:id="_ssmnkEeoEeuaEpjJwJueTw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_whCigEeoEeuaEpjJwJueTw" name="asignacion_de_la_peticion_aceptada" guid="_whCigEeoEeuaEpjJwJueTw" presentationName="Asignación de la petición (aceptada)" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" performedBy="_Gao4sEObEeu3HJm-bTROfg _8tEvoEeqEeuaEpjJwJueTw" mandatoryInput="_vTVl8EOaEeu3HJm-bTROfg _8kdboEepEeuaEpjJwJueTw" output="_vTVl8EOaEeu3HJm-bTROfg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_whCigEeoEeuaEpjJwJueTw" name="asignacion_de_la_peticion" guid="_whCigEeoEeuaEpjJwJueTw" presentationName="Asignación de la petición" briefDescription="Se estudian los criterios y se acepta o rechaza la petición." conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" performedBy="_Gao4sEObEeu3HJm-bTROfg _gsgDsEkREeuUcMl77XK-lQ" mandatoryInput="_vTVl8EOaEeu3HJm-bTROfg _8kdboEepEeuaEpjJwJueTw" output="_v3RXQEhtEeuBA--oqPZ12w">
             <methodElementProperty xmi:id="_yKDHsEeoEeuaEpjJwJueTw" name="me_edited" value="true"/>
             <presentation xmi:id="-us_quyG8HP-qXD2ThPH4PQ" href="uma://-us_quyG8HP-qXD2ThPH4PQ#-us_quyG8HP-qXD2ThPH4PQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8kdboEepEeuaEpjJwJueTw" name="plan_de_mantenimiento" guid="_8kdboEepEeuaEpjJwJueTw" presentationName="Plan de mantenimiento">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8kdboEepEeuaEpjJwJueTw" name="plan_de_mantenimiento" guid="_8kdboEepEeuaEpjJwJueTw" presentationName="Plan de mantenimiento" briefDescription="Se establece de manera formal el plan que hay que seguir para llevar a cabo el mantenimiento del sistema.">
             <methodElementProperty xmi:id="_9s5DUEepEeuaEpjJwJueTw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_8tEvoEeqEeuaEpjJwJueTw" name="responsable_de_la_peticion" guid="_8tEvoEeqEeuaEpjJwJueTw" presentationName="Responsable de la petición">
-            <methodElementProperty xmi:id="_AKZLEEerEeuaEpjJwJueTw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EqkxsEerEeuaEpjJwJueTw" name="asignacion_de_la_peticion_rechazada" guid="_EqkxsEerEeuaEpjJwJueTw" presentationName="Asignación de la petición (rechazada)" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" performedBy="_Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_vTVl8EOaEeu3HJm-bTROfg _8kdboEepEeuaEpjJwJueTw" output="_vTVl8EOaEeu3HJm-bTROfg">
-            <methodElementProperty xmi:id="_ITOTYEerEeuaEpjJwJueTw" name="me_edited" value="true"/>
-            <presentation xmi:id="-IVRAm1h8FqYSE6eYGm5XHQ" href="uma://-IVRAm1h8FqYSE6eYGm5XHQ#-IVRAm1h8FqYSE6eYGm5XHQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_B_mjwEesEeuaEpjJwJueTw" name="verificacion_de_la_peticion" guid="_B_mjwEesEeuaEpjJwJueTw" presentationName="Verificación de la petición">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_B_mjwEesEeuaEpjJwJueTw" name="verificacion_estudio_peticion_correctivo" guid="_B_mjwEesEeuaEpjJwJueTw" presentationName="Verificación y estucio de la petición (mantenimiento correctivo)" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" guidelines="_I2C5AEkeEeuUcMl77XK-lQ" performedBy="_HuFUEEetEeuaEpjJwJueTw" mandatoryInput="_v3RXQEhtEeuBA--oqPZ12w _9fojEEesEeuaEpjJwJueTw" output="_BCcigEetEeuaEpjJwJueTw _Cp5wwEknEeuUcMl77XK-lQ">
             <methodElementProperty xmi:id="_EYDB0EesEeuaEpjJwJueTw" name="me_edited" value="true"/>
+            <presentation xmi:id="-TLB9nV4A1GBbzut0kYocKg" href="uma://-TLB9nV4A1GBbzut0kYocKg#-TLB9nV4A1GBbzut0kYocKg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9fojEEesEeuaEpjJwJueTw" name="acuerdo_de_nivel_de_servicio" guid="_9fojEEesEeuaEpjJwJueTw" presentationName="Acuerdo de Nivel de Servicio">
             <methodElementProperty xmi:id="_-VsoYEesEeuaEpjJwJueTw" name="me_edited" value="true"/>
@@ -68,6 +68,37 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HuFUEEetEeuaEpjJwJueTw" name="equipo_de_mantenimiento" guid="_HuFUEEetEeuaEpjJwJueTw" presentationName="Equipo de mantenimiento">
             <methodElementProperty xmi:id="_Ir8qgEetEeuaEpjJwJueTw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_v3RXQEhtEeuBA--oqPZ12w" name="catalogo_de_peticiones_msi_1.2" guid="_v3RXQEhtEeuBA--oqPZ12w" presentationName="Catalogo de peticiones (MSI 1.2)" briefDescription="Catalogo de peticiones resultante de la aceptación de la petición de mantenimiento.">
+            <methodElementProperty xmi:id="_7c7LwEhtEeuBA--oqPZ12w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gsgDsEkREeuUcMl77XK-lQ" name="responsable_de_la_peticion" guid="_gsgDsEkREeuUcMl77XK-lQ" presentationName="Responsable de la petición" briefDescription="Es asignado en la tarea de asignación de petición.">
+            <methodElementProperty xmi:id="_jKH8sEkREeuUcMl77XK-lQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-iOwmbDyTWQzl0Rc3H0JHWw" href="uma://-iOwmbDyTWQzl0Rc3H0JHWw#-iOwmbDyTWQzl0Rc3H0JHWw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XzAdAEkdEeuUcMl77XK-lQ" name="verificacion_estudio_peticion_evolutivo" guid="_XzAdAEkdEeuUcMl77XK-lQ" presentationName="Verificacion de la peticion (mantenimiento evolutivo)" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" guidelines="_I2C5AEkeEeuUcMl77XK-lQ" performedBy="_HuFUEEetEeuaEpjJwJueTw" mandatoryInput="_9fojEEesEeuaEpjJwJueTw _v3RXQEhtEeuBA--oqPZ12w" output="_Cp5wwEknEeuUcMl77XK-lQ _BCcigEetEeuaEpjJwJueTw">
+            <methodElementProperty xmi:id="_dQqYgEkdEeuUcMl77XK-lQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-OBtM02nZ7y25YbB7qkdxCQ" href="uma://-OBtM02nZ7y25YbB7qkdxCQ#-OBtM02nZ7y25YbB7qkdxCQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_I2C5AEkeEeuUcMl77XK-lQ" name="sesiones_de_trabajo" guid="_I2C5AEkeEeuUcMl77XK-lQ" presentationName="Sesiones de trabajo">
+            <methodElementProperty xmi:id="_E37BIEkfEeuUcMl77XK-lQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Cp5wwEknEeuUcMl77XK-lQ" name="catalogo_de_peticiones_msi_2.1" guid="_Cp5wwEknEeuUcMl77XK-lQ" presentationName="Catalogo de peticiones (MSI 2.1)">
+            <methodElementProperty xmi:id="_IpNAwEknEeuUcMl77XK-lQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KFVfMEk1EeuUcMl77XK-lQ" name="estudio_propuesta_solucion_evolutivo" guid="_KFVfMEk1EeuUcMl77XK-lQ" presentationName="Estudio de la propuesta de solución (Mantenimiento Evolutivo)" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" guidelines="_I2C5AEkeEeuUcMl77XK-lQ" performedBy="_HuFUEEetEeuaEpjJwJueTw _Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_9fojEEesEeuaEpjJwJueTw _Cp5wwEknEeuUcMl77XK-lQ _8kdboEepEeuaEpjJwJueTw _BCcigEetEeuaEpjJwJueTw" output="_TqiiEEk5EeuUcMl77XK-lQ _geShYEk5EeuUcMl77XK-lQ">
+            <methodElementProperty xmi:id="_Qi4xcEk1EeuUcMl77XK-lQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-cjclotKZNVXbAf7dN81lbA" href="uma://-cjclotKZNVXbAf7dN81lbA#-cjclotKZNVXbAf7dN81lbA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RsT3oEk1EeuUcMl77XK-lQ" name="estudio_propuesta_solucion_correctivo" guid="_RsT3oEk1EeuUcMl77XK-lQ" presentationName="Estudio de la propuesta de solución (Mantenimiento Correctivo)" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" guidelines="_I2C5AEkeEeuUcMl77XK-lQ" performedBy="_HuFUEEetEeuaEpjJwJueTw _Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_9fojEEesEeuaEpjJwJueTw _Cp5wwEknEeuUcMl77XK-lQ _8kdboEepEeuaEpjJwJueTw _BCcigEetEeuaEpjJwJueTw" output="_geShYEk5EeuUcMl77XK-lQ _TqiiEEk5EeuUcMl77XK-lQ">
+            <methodElementProperty xmi:id="_U34bwEk1EeuUcMl77XK-lQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wuJKxLpbqRFQEkxFlNRDXQ" href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#-wuJKxLpbqRFQEkxFlNRDXQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TqiiEEk5EeuUcMl77XK-lQ" name="propuesta_de_solucion" guid="_TqiiEEk5EeuUcMl77XK-lQ" presentationName="Propuesta de Solución">
+            <methodElementProperty xmi:id="_W25JUEk5EeuUcMl77XK-lQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_geShYEk5EeuUcMl77XK-lQ" name="catalogo_de_peticiones_msi_2.2" guid="_geShYEk5EeuUcMl77XK-lQ" presentationName="Catálogo de peticiones (MSI 2.2)">
+            <methodElementProperty xmi:id="_kQjSEEk5EeuUcMl77XK-lQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>

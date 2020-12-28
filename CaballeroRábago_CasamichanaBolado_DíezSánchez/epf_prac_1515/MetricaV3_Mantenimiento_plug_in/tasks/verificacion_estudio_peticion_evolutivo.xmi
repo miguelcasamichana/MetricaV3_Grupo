@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OBtM02nZ7y25YbB7qkdxCQ" name=",_XzAdAEkdEeuUcMl77XK-lQ" guid="-OBtM02nZ7y25YbB7qkdxCQ">
+  <mainDescription>&lt;p>&#xD;
+    Esta tarea indica como se debe verificar la información a la hora de juzgar si se ha de atender la petición o no.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ya que hay dos formas de hacer mantenimiento, esta tarea se indica de forma separada al caso correctivo.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_aZo8gEknEeuUcMl77XK-lQ" name="Verificar si la informacion es correcta" guid="_aZo8gEknEeuUcMl77XK-lQ"/>
+  <sections xmi:id="_b09D8EknEeuUcMl77XK-lQ" name="Comprobar que la petición es razonable" guid="_b09D8EknEeuUcMl77XK-lQ"/>
+  <sections xmi:id="_epPJcEknEeuUcMl77XK-lQ" name="Delimitar alcance del mantenimiento" guid="_epPJcEknEeuUcMl77XK-lQ"/>
+</org.eclipse.epf.uma:TaskDescription>
