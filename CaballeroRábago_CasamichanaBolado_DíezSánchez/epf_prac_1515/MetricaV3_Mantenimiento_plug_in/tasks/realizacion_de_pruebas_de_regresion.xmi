@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JE4LStLOqxdkpiWPJ0sJTQ" name=",_hjGW4ElFEeuXepEtGW6jeg" guid="-JE4LStLOqxdkpiWPJ0sJTQ">
+  <sections xmi:id="_nQYCwElFEeuXepEtGW6jeg" name="Se realizan las pruebas de regresión" guid="_nQYCwElFEeuXepEtGW6jeg">
+    <sectionDescription>Estas pruebas están definidas en la actividad anterior.</sectionDescription>
+  </sections>
+  <sections xmi:id="_wUkAEElFEeuXepEtGW6jeg" name="En el caso de detectarse problemas, se elabora un informe y se remite" guid="_wUkAEElFEeuXepEtGW6jeg">
+    <sectionDescription>Este informe recoge las posibles&amp;nbsp;incidencias&amp;nbsp;producidas y es remitido a quién proceda para que tome las medidas&#xD;
+correctivas que considere oportunas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4WJQ4ElFEeuXepEtGW6jeg" name="Se documenta el resultado global de la evaluación de las pruebas " guid="_4WJQ4ElFEeuXepEtGW6jeg">
+    <sectionDescription>Se incluye la aprobación por parte del responsable de mantenimiento.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OdPo5MQ6k-CvBh8deBWL7A" name=",_7XXREElDEeuXepEtGW6jeg" guid="-OdPo5MQ6k-CvBh8deBWL7A">
+  <sections xmi:id="_B5YMkElEEeuXepEtGW6jeg" name="Se hace el seguimiento al plan de acción " guid="_B5YMkElEEeuXepEtGW6jeg">
+    <sectionDescription>De acuerdo a los puntos de control mencionados en el último step de la actividad anmterior.</sectionDescription>
+  </sections>
+  <sections xmi:id="_GRs3sElEEeuXepEtGW6jeg" name="Se realiza el seguimiento de los cambios necesarios " guid="_GRs3sElEEeuXepEtGW6jeg">
+    <sectionDescription>Este seguimiento se realiza sobre los componentes de cada sistema de información afectado, así como en los productos&#xD;
+asociados, siguiendo las actividades correspondientes a los procesos de Análisis, Diseño, Construcción e Implantación&#xD;
+identificadas en la actividad anterior</sectionDescription>
+  </sections>
+  <sections xmi:id="_N_itIElEEeuXepEtGW6jeg" name="Se lleva a cabo el control de la planificación establecida" guid="_N_itIElEEeuXepEtGW6jeg">
+    <sectionDescription>&lt;p>&#xD;
+    Se abracan los siguientes aspectos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Realizar la traza de los cambios que la petición ha provocado a lo largo de los procesos de desarrollo implicados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Verificar que se han realizado satisfactoriamente las pruebas unitarias, de integración y del sistema que se&#xD;
+    consideraron necesarias para los componentes a modificar.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Comprobar que sólo se ha modificado lo establecido y, en caso contrario, justificar el motivo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Asegurar que se han actualizado los productos correspondientes.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Llevar el control de los distintos desarrollos existentes en paralelo sobre un mismo componente, con el fin de&#xD;
+    coordinar las modificaciones incluidas en cada uno de ellos, y asegurar que en el paso a producción se implantan&#xD;
+    correctamente.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

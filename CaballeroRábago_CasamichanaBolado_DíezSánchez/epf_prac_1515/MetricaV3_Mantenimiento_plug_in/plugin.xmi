@@ -11,6 +11,13 @@
     <resourceDescriptors xmi:id="_0GgiUEkyEeuUcMl77XK-lQ" id="-OBtM02nZ7y25YbB7qkdxCQ" uri="tasks/verificacion_estudio_peticion_evolutivo.xmi"/>
     <resourceDescriptors xmi:id="_OpUq8Ek5EeuUcMl77XK-lQ" id="-cjclotKZNVXbAf7dN81lbA" uri="tasks/estudio_propuesta_solucion_evolutivo.xmi"/>
     <resourceDescriptors xmi:id="_8UArEEk5EeuUcMl77XK-lQ" id="-wuJKxLpbqRFQEkxFlNRDXQ" uri="tasks/estudio_propuesta_solucion_correctivo.xmi"/>
+    <resourceDescriptors xmi:id="_eJNjkEk9EeuXepEtGW6jeg" id="-fSa4GWgsbo4jOmwtut7jdA" uri="tasks/identificacion_de_elementos_afectados.xmi"/>
+    <resourceDescriptors xmi:id="_V1iyUEk_EeuXepEtGW6jeg" id="-L9hgkXlrOZEfhTpbu7STFQ" uri="guidances/checklists/analisis_de_impacto.xmi"/>
+    <resourceDescriptors xmi:id="_wdEOEElAEeuXepEtGW6jeg" id="-RyDrCixyoPfXGtevJgiymQ" uri="tasks/establecimiento_del_plan_de_accion.xmi"/>
+    <resourceDescriptors xmi:id="_myLLMElCEeuXepEtGW6jeg" id="-PKQenPrqZcf_4Pmpnq2_uw" uri="tasks/especificacion_del_plan_de_pruebas_de_regresion.xmi"/>
+    <resourceDescriptors xmi:id="_iAq5IElEEeuXepEtGW6jeg" id="-OdPo5MQ6k-CvBh8deBWL7A" uri="tasks/seguimiento_de_los_cambios.xmi"/>
+    <resourceDescriptors xmi:id="_9xeRIElFEeuXepEtGW6jeg" id="-JE4LStLOqxdkpiWPJ0sJTQ" uri="tasks/realizacion_de_pruebas_de_regresion.xmi"/>
+    <resourceDescriptors xmi:id="_ZZAN0ElGEeuXepEtGW6jeg" id="-DNm7EKmyDq2EfEmT7I7WGA" uri="tasks/aprobacion_y_cierre_de_la_peticion.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_Zz8sMEOaEeu3HJm-bTROfg" name="MetricaV3_Mantenimiento_plug_in" guid="_Zz8sMEOaEeu3HJm-bTROfg" briefDescription="Este plug in contiene toda la configuración desarrollada durante la práctica &quot;METRICA_V3_Mantenimiento_de_Sistemas_de_Informacion&quot;." authors="Caballero Rábago, Manuel&#xD;&#xA;Casamichana Bolado, Miguel&#xD;&#xA;Sánchez Díez, Daniel">
     <methodElementProperty xmi:id="_Z0vWYEOaEeu3HJm-bTROfg" name="plugin_synFree" value="true"/>
@@ -94,11 +101,81 @@
             <methodElementProperty xmi:id="_U34bwEk1EeuUcMl77XK-lQ" name="me_edited" value="true"/>
             <presentation xmi:id="-wuJKxLpbqRFQEkxFlNRDXQ" href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#-wuJKxLpbqRFQEkxFlNRDXQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TqiiEEk5EeuUcMl77XK-lQ" name="propuesta_de_solucion" guid="_TqiiEEk5EeuUcMl77XK-lQ" presentationName="Propuesta de Solución">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TqiiEEk5EeuUcMl77XK-lQ" name="propuesta_de_solucion_msi_2.2" guid="_TqiiEEk5EeuUcMl77XK-lQ" presentationName="Propuesta de Solución (MSI 2.2)">
             <methodElementProperty xmi:id="_W25JUEk5EeuUcMl77XK-lQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_geShYEk5EeuUcMl77XK-lQ" name="catalogo_de_peticiones_msi_2.2" guid="_geShYEk5EeuUcMl77XK-lQ" presentationName="Catálogo de peticiones (MSI 2.2)">
             <methodElementProperty xmi:id="_kQjSEEk5EeuUcMl77XK-lQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_b6nP8Ek7EeuXepEtGW6jeg" name="jefe_del_proyecto" guid="_b6nP8Ek7EeuXepEtGW6jeg" presentationName="Jefe del proyecto">
+            <methodElementProperty xmi:id="_erDXQEk7EeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZV7QMEk8EeuXepEtGW6jeg" name="identificacion_de_elementos_afectados" guid="_ZV7QMEk8EeuXepEtGW6jeg" presentationName="Identificación de elementos afectados" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" checklists="_HQLrcEk_EeuXepEtGW6jeg" performedBy="_HuFUEEetEeuaEpjJwJueTw _b6nP8Ek7EeuXepEtGW6jeg" mandatoryInput="_geShYEk5EeuUcMl77XK-lQ _TqiiEEk5EeuUcMl77XK-lQ" output="_p1nq4Ek-EeuXepEtGW6jeg _75ya8Ek-EeuXepEtGW6jeg">
+            <methodElementProperty xmi:id="_dAxxUEk8EeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-fSa4GWgsbo4jOmwtut7jdA" href="uma://-fSa4GWgsbo4jOmwtut7jdA#-fSa4GWgsbo4jOmwtut7jdA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_p1nq4Ek-EeuXepEtGW6jeg" name="catalogo_de_peticiones_msi_3.1" guid="_p1nq4Ek-EeuXepEtGW6jeg" presentationName="Catálogo de peticiones (MSI 3.1)">
+            <methodElementProperty xmi:id="_23XC4Ek-EeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_75ya8Ek-EeuXepEtGW6jeg" name="analisis_del_impacto_de_los_cambios" guid="_75ya8Ek-EeuXepEtGW6jeg" presentationName="Análisis del impacto de los cambios">
+            <methodElementProperty xmi:id="_-tGQEEk-EeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_HQLrcEk_EeuXepEtGW6jeg" name="analisis_de_impacto" guid="_HQLrcEk_EeuXepEtGW6jeg" presentationName="Análisis de impacto">
+            <methodElementProperty xmi:id="_V1ZBUEk_EeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-L9hgkXlrOZEfhTpbu7STFQ" href="uma://-L9hgkXlrOZEfhTpbu7STFQ#-L9hgkXlrOZEfhTpbu7STFQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0JJ6wEk_EeuXepEtGW6jeg" name="establecimiento_del_plan_de_accion" guid="_0JJ6wEk_EeuXepEtGW6jeg" presentationName="Establecimiento del plan de acción" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA __2HmQElBEeuXepEtGW6jeg" performedBy="_HuFUEEetEeuaEpjJwJueTw _b6nP8Ek7EeuXepEtGW6jeg _Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_75ya8Ek-EeuXepEtGW6jeg _8kdboEepEeuaEpjJwJueTw _TqiiEEk5EeuUcMl77XK-lQ _p1nq4Ek-EeuXepEtGW6jeg" output="_g2P0wElBEeuXepEtGW6jeg _lb_Q0ElBEeuXepEtGW6jeg">
+            <methodElementProperty xmi:id="_3hr80Ek_EeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-RyDrCixyoPfXGtevJgiymQ" href="uma://-RyDrCixyoPfXGtevJgiymQ#-RyDrCixyoPfXGtevJgiymQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_g2P0wElBEeuXepEtGW6jeg" name="catalogo_de_peticiones_msi_3.2" guid="_g2P0wElBEeuXepEtGW6jeg" presentationName="Catálogo de peticiones (MSI 3.2)">
+            <methodElementProperty xmi:id="_jdinIElBEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lb_Q0ElBEeuXepEtGW6jeg" name="plan_de_accion_para_la_modificacion" guid="_lb_Q0ElBEeuXepEtGW6jeg" presentationName="Plan de acción para la modificación">
+            <methodElementProperty xmi:id="_pNcJMElBEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__2HmQElBEeuXepEtGW6jeg" name="planificacion" guid="__2HmQElBEeuXepEtGW6jeg" presentationName="Planificación">
+            <methodElementProperty xmi:id="_CrAvwElCEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_R9tdwElCEeuXepEtGW6jeg" name="especificacion_del_plan_de_pruebas_de_regresion" guid="_R9tdwElCEeuXepEtGW6jeg" presentationName="Especificación del Plan de Pruebas de Regresión" performedBy="_HuFUEEetEeuaEpjJwJueTw _b6nP8Ek7EeuXepEtGW6jeg" mandatoryInput="_75ya8Ek-EeuXepEtGW6jeg _g2P0wElBEeuXepEtGW6jeg _TqiiEEk5EeuUcMl77XK-lQ" output="_vWfVoElCEeuXepEtGW6jeg">
+            <methodElementProperty xmi:id="_T6CnkElCEeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-PKQenPrqZcf_4Pmpnq2_uw" href="uma://-PKQenPrqZcf_4Pmpnq2_uw#-PKQenPrqZcf_4Pmpnq2_uw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vWfVoElCEeuXepEtGW6jeg" name="plan_de_pruebas_de_regresion" guid="_vWfVoElCEeuXepEtGW6jeg" presentationName="Plan de pruebas de regresión">
+            <methodElementProperty xmi:id="_xuFfIElCEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7XXREElDEeuXepEtGW6jeg" name="seguimiento_de_los_cambios" guid="_7XXREElDEeuXepEtGW6jeg" presentationName="Seguimiento de los cambios" performedBy="_HuFUEEetEeuaEpjJwJueTw _b6nP8Ek7EeuXepEtGW6jeg _Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_75ya8Ek-EeuXepEtGW6jeg _lb_Q0ElBEeuXepEtGW6jeg _s5v7gElEEeuXepEtGW6jeg" output="_pl4XAElEEeuXepEtGW6jeg">
+            <methodElementProperty xmi:id="_iAjkYElEEeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-OdPo5MQ6k-CvBh8deBWL7A" href="uma://-OdPo5MQ6k-CvBh8deBWL7A#-OdPo5MQ6k-CvBh8deBWL7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pl4XAElEEeuXepEtGW6jeg" name="evaluacion_del_cambio" guid="_pl4XAElEEeuXepEtGW6jeg" presentationName="Evaluación del cambio">
+            <methodElementProperty xmi:id="_sXTVwElEEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_s5v7gElEEeuXepEtGW6jeg" name="producto_software" guid="_s5v7gElEEeuXepEtGW6jeg" presentationName="Producto Software">
+            <methodElementProperty xmi:id="_t_Z8AElEEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_CXZI0ElFEeuXepEtGW6jeg" name="directores_de_los_usuarios" guid="_CXZI0ElFEeuXepEtGW6jeg" presentationName="Directores de los Usuarios">
+            <methodElementProperty xmi:id="_EMykMElFEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Ne5BsElFEeuXepEtGW6jeg" name="resultado_de_las_pruebas_de_regresion" guid="_Ne5BsElFEeuXepEtGW6jeg" presentationName="Resultado de las Pruebas de Regresión">
+            <methodElementProperty xmi:id="_PfF-4ElFEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_S4rJ0ElFEeuXepEtGW6jeg" name="evaluacion_del_resultado_de_las_pruebas_de_regresion" guid="_S4rJ0ElFEeuXepEtGW6jeg" presentationName="Evaluación del Resultado de las Pruebas de Regresión">
+            <methodElementProperty xmi:id="_U4VUcElFEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_akBE4ElFEeuXepEtGW6jeg" name="catlogo_de_peticiones_msi_4.3" guid="_akBE4ElFEeuXepEtGW6jeg" presentationName="Catálogo de peticiones (MSI 4.3)">
+            <methodElementProperty xmi:id="_buTtwElFEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hjGW4ElFEeuXepEtGW6jeg" name="realizacion_de_pruebas_de_regresion" guid="_hjGW4ElFEeuXepEtGW6jeg" presentationName="Realización de pruebas de regresión" guidelines="_GFyQsElGEeuXepEtGW6jeg" performedBy="_HuFUEEetEeuaEpjJwJueTw _b6nP8Ek7EeuXepEtGW6jeg _Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_vWfVoElCEeuXepEtGW6jeg _s5v7gElEEeuXepEtGW6jeg" output="_S4rJ0ElFEeuXepEtGW6jeg _Ne5BsElFEeuXepEtGW6jeg">
+            <methodElementProperty xmi:id="_jo1UUElFEeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-JE4LStLOqxdkpiWPJ0sJTQ" href="uma://-JE4LStLOqxdkpiWPJ0sJTQ#-JE4LStLOqxdkpiWPJ0sJTQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_GFyQsElGEeuXepEtGW6jeg" name="pruebas_de_regresion" guid="_GFyQsElGEeuXepEtGW6jeg" presentationName="Pruebas de regresión">
+            <methodElementProperty xmi:id="_IfSesElGEeuXepEtGW6jeg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Vf51UElGEeuXepEtGW6jeg" name="aprobacion_y_cierre_de_la_peticion" guid="_Vf51UElGEeuXepEtGW6jeg" presentationName="Aprobación y Cierre de la Petición" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA" performedBy="_CXZI0ElFEeuXepEtGW6jeg _Gao4sEObEeu3HJm-bTROfg" mandatoryInput="_g2P0wElBEeuXepEtGW6jeg _pl4XAElEEeuXepEtGW6jeg _S4rJ0ElFEeuXepEtGW6jeg _vWfVoElCEeuXepEtGW6jeg" output="_akBE4ElFEeuXepEtGW6jeg">
+            <methodElementProperty xmi:id="_XEChkElGEeuXepEtGW6jeg" name="me_edited" value="true"/>
+            <presentation xmi:id="-DNm7EKmyDq2EfEmT7I7WGA" href="uma://-DNm7EKmyDq2EfEmT7I7WGA#-DNm7EKmyDq2EfEmT7I7WGA"/>
           </contentElements>
         </childPackages>
       </childPackages>

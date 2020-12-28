@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PKQenPrqZcf_4Pmpnq2_uw" name=",_R9tdwElCEeuXepEtGW6jeg" guid="-PKQenPrqZcf_4Pmpnq2_uw">
+  <sections xmi:id="_n_jkUElCEeuXepEtGW6jeg" name="Especificar casos de prueba" guid="_n_jkUElCEeuXepEtGW6jeg">
+    <sectionDescription>Dichos casos se establecerán en&amp;nbsp;función de las relaciones existentes entre los distintos componentes identificados en&#xD;
+la tarea anterior</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

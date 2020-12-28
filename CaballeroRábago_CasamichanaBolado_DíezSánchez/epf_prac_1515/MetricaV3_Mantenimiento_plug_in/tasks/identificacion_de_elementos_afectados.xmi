@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fSa4GWgsbo4jOmwtut7jdA" name=",_ZV7QMEk8EeuXepEtGW6jeg" guid="-fSa4GWgsbo4jOmwtut7jdA">
+  <sections xmi:id="_JCDjoEk9EeuXepEtGW6jeg" name="Se analizan las estimaciones del proceso &quot;Análisis del Sistema de Información&quot;" guid="_JCDjoEk9EeuXepEtGW6jeg"/>
+  <sections xmi:id="_Nt8D8Ek9EeuXepEtGW6jeg" name="Determinar en el análisis el alcance del impacto de los elementos afectados" guid="_Nt8D8Ek9EeuXepEtGW6jeg">
+    <sectionDescription>&lt;p>&#xD;
+    En caso de ser correctivo, este paso se omite debido a que se habría realizado previamente (en la tarea 2.2).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se identifica cada sistema de información afectado. Para ello se crean argumentos de búsqueda para determinar qué&#xD;
+    elementos y en qué medida están implicados en el proceso de cambio.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se quedarán reflejados en el análisis los elementos de la infraestructura tecnológica que se vean implicados en cada&#xD;
+    petición.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

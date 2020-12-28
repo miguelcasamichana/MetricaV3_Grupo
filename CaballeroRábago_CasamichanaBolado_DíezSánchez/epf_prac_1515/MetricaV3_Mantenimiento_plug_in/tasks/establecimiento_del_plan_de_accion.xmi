@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RyDrCixyoPfXGtevJgiymQ" name=",_0JJ6wEk_EeuXepEtGW6jeg" guid="-RyDrCixyoPfXGtevJgiymQ">
+  <sections xmi:id="_8veQUEk_EeuXepEtGW6jeg" name="Se identifican las actividades y tareas de los procesos pertinentes" guid="_8veQUEk_EeuXepEtGW6jeg">
+    <sectionDescription>Estudio de Viabilidad del Sistema, Análisis del Sistema de Información, Diseño del Sistema de Información, Construcción del&#xD;
+Sistema de Información e Implantación y Aceptación del Sistema.</sectionDescription>
+  </sections>
+  <sections xmi:id="_MEpqkElAEeuXepEtGW6jeg" name="Se delimita el alcance del plan de acción " guid="_MEpqkElAEeuXepEtGW6jeg">
+    <sectionDescription>Teniendo en cuenta las características, complejidad y alcance de la petición estudiada.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Tcn9sElAEeuXepEtGW6jeg" name="Se aplican los indicadores establecidos para el conjunto de componentes afectados" guid="_Tcn9sElAEeuXepEtGW6jeg"/>
+  <sections xmi:id="_a0wo4ElAEeuXepEtGW6jeg" name="Se establece un plan de trabajo" guid="_a0wo4ElAEeuXepEtGW6jeg">
+    <sectionDescription>En dicho plan de trabajo se determina el coste asociado, los plazos estimados para su implementación con las fechas de&#xD;
+comienzo y fin, y la composición del equipo de trabajo inicial necesario, teniendo en cuenta el alcance de la modificación,&#xD;
+el nivel de esfuerzo requerido y el plan de trabajo establecido.</sectionDescription>
+  </sections>
+  <sections xmi:id="_jwU1sElAEeuXepEtGW6jeg" name="Se definen puntos de control " guid="_jwU1sElAEeuXepEtGW6jeg">
+    <sectionDescription>Con la finalidad de ofrecer la oportunidad de realizar un&amp;nbsp;seguimiento del plan de trabajo.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

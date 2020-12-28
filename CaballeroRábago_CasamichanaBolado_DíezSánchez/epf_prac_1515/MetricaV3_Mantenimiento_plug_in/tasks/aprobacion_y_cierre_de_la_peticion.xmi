@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DNm7EKmyDq2EfEmT7I7WGA" name=",_Vf51UElGEeuXepEtGW6jeg" guid="-DNm7EKmyDq2EfEmT7I7WGA">
+  <sections xmi:id="_ZGEDsElGEeuXepEtGW6jeg" name="Se aprueba formalmente la finalización de la petición de mantenimiento" guid="_ZGEDsElGEeuXepEtGW6jeg"/>
+  <sections xmi:id="_ZuOP4ElGEeuXepEtGW6jeg" name="Se actualiza el catálogo de peticiones registrando el cierre de la petición tratada" guid="_ZuOP4ElGEeuXepEtGW6jeg"/>
+  <sections xmi:id="_ebZwsElGEeuXepEtGW6jeg" name="Registrar datos cuantitativos relativos al tiempo empleado" guid="_ebZwsElGEeuXepEtGW6jeg">
+    <sectionDescription>El tiempo empleado se divide en el análisis de la petición, en el estudio del impacto, resolución del cambio, recursos&#xD;
+empleados, etc.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
