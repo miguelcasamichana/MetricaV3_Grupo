@@ -1,14 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-H_CL9cLhZBnzH2nbTh2scg" name="MSI,_G8A4sUOhEeuqG6BlZi_RfA" guid="-H_CL9cLhZBnzH2nbTh2scg"/>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AQtLm3zYmbl15MkXaadWHw" name="registro_de_la_peticion,_EabK4EhxEeuxjY-rtmALYg" guid="-AQtLm3zYmbl15MkXaadWHw">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-ka0U0pkYCLmCVgIqJhQoUQ" name="Mantenimineto MSI,_Grap0UqlEeuUStZqQuD3rQ" guid="-ka0U0pkYCLmCVgIqJhQoUQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ojxDiJAojjlTPqZ1_GKxIQ" name="registro_de_la_peticion,_bhvYcEqlEeuUStZqQuD3rQ" guid="-ojxDiJAojjlTPqZ1_GKxIQ">
     <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Esta tarea tiene como objetivo registrar las peticiones que los usuarios solicitan con motivo de&#xD;
 la&lt;br />&#xD;
 detección de un problema o por la necesidad de una mejora.&lt;/span> &lt;br&#xD;
 style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
 </refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kmMtLeWvk-3DhMzN-uEqgA" name="responsable_de_mantenimiento,_EabK4UhxEeuxjY-rtmALYg" guid="-kmMtLeWvk-3DhMzN-uEqgA">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8K1wL-xL5aIhIFIc1XNHkQ" name="responsable_de_mantenimiento,_bhvYcUqlEeuUStZqQuD3rQ" guid="-8K1wL-xL5aIhIFIc1XNHkQ">
     <refinedDescription>El encargado de mantenimiento se ocupa de planear, supervisar y asegurar el proceso de mantenimieto del producto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MQEIzJp2ObgAo06wdE4sSg" name="asignacion_de_la_peticion,_ySIAAEqlEeuUStZqQuD3rQ" guid="-MQEIzJp2ObgAo06wdE4sSg">
+    <refinedDescription>&lt;p>&#xD;
+    Con esta tarea se pretende anallizar los criterios necesarios para aceptar o rechazar la peticion de mantenimiento. En&#xD;
+    caso positivo se asigna un responsable a esa petición y en caso negativo no se hace más.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Por lo tanto, en vez de definir esta tarea como dos ramas (una si se acepta y otra si se rechaza) se queda como una&#xD;
+    sola, ya que al rechazar la petición no tiene sentido dividir el flujo de trabajo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1A6Z9CZksSo8KE-XMpGxDQ" name="responsable_de_la_peticion,_ySIAAUqlEeuUStZqQuD3rQ" guid="-1A6Z9CZksSo8KE-XMpGxDQ">
+    <refinedDescription>Esta persona será asignada para que&amp;nbsp;atender la petición para su posterior estudio. Solo se asigna si la peticion es&#xD;
+aceptada.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VPutGMOKyI_rvWxHbQveCw" name="verificacion_estudio_peticion_correctivo,_3cTl4EqlEeuUStZqQuD3rQ" guid="-VPutGMOKyI_rvWxHbQveCw">
+    <refinedDescription>&lt;p>&#xD;
+    Esta tarea indica como se debe verificar la información a la hora de juzgar si se ha de atender la petición o no.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ya que hay dos formas de hacer mantenimiento, esta tarea se indica de forma separada al caso evolutivo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7SXQBTBVD5L0KSXWs6SHdg" name="verificacion_estudio_peticion_evolutivo,_3cTl4UqlEeuUStZqQuD3rQ" guid="-7SXQBTBVD5L0KSXWs6SHdg">
+    <refinedDescription>&lt;p>&#xD;
+    Esta tarea indica como se debe verificar la información a la hora de juzgar si se ha de atender la petición o no.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ya que hay dos formas de hacer mantenimiento, esta tarea se indica de forma separada al caso correctivo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QzHY5qXlDJx10ACg8tV8pA" name="estudio_propuesta_solucion_correctivo,_4X0y8EqlEeuUStZqQuD3rQ" guid="-QzHY5qXlDJx10ACg8tV8pA">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>A partir del catálogo de peticiones, y para cada una de ellas, se estima su alcance valorando&#xD;
+la&lt;br />&#xD;
+prioridad inicialmente asignada, de acuerdo a los requisitos planteados&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KnbtGmKakt8D_OHUWzst_g" name="estudio_propuesta_solucion_evolutivo,_4X0y8UqlEeuUStZqQuD3rQ" guid="-KnbtGmKakt8D_OHUWzst_g">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>A partir del catálogo de peticiones, y para cada una de ellas, se estima su alcance valorando&#xD;
+la&lt;br />&#xD;
+prioridad inicialmente asignada, de acuerdo a los requisitos planteados&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LXnbOcdxnUVbwlgbNAhDPw" name="responsable_de_mantenimiento,_4X0y8kqlEeuUStZqQuD3rQ" guid="-LXnbOcdxnUVbwlgbNAhDPw">
+    <refinedDescription>El encargado de mantenimiento se ocupa de planear, supervisar y asegurar el proceso de mantenimieto del producto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--_C2SCmNNMeJ_SsZkuxy7A" name="especificacion_del_plan_de_pruebas_de_regresion,__LEBUEqlEeuUStZqQuD3rQ" guid="--_C2SCmNNMeJ_SsZkuxy7A">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Los casos de prueba aseguran que la nueva versión satisface las&lt;br />&#xD;
+necesidades planteadas al considerar, a su vez, los sistemas de información que no han sido&lt;br />&#xD;
+modificados pero están directamente relacionados con ellos y, en consecuencia, pueden verse&lt;br />&#xD;
+afectados.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--68DqzoFxxIPtre6lpwZ0w" name="establecimiento_del_plan_de_accion,__LEBUUqlEeuUStZqQuD3rQ" guid="--68DqzoFxxIPtre6lpwZ0w">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>Se identifican las actividades y tareas de los procesos de desarrollo que es preciso realizar,&#xD;
+    en&lt;br />&#xD;
+    función de las características, complejidad y alcance de la petición estudiada, así como del plan&lt;br />&#xD;
+    de mantenimiento establecido para los sistemas de información implicados.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>&lt;span class=&quot;fontstyle0&quot;>Tras eso se aplican los indicadores establecidos para el&lt;br />&#xD;
+    conjunto de componentes afectados, realizando los reajustes que oportunos.&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>&lt;span class=&quot;fontstyle0&quot;>&lt;span class=&quot;fontstyle0&quot;>Finalmente, se definen puntos de control que&#xD;
+    permiten hacer un seguimiento del plan de trabajo&lt;br />&#xD;
+    durante la implementación de la modificación.&lt;/span>&lt;/span>&amp;nbsp;&lt;br&#xD;
+    style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+    &lt;/span>&lt;br&#xD;
+    style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aaMtXiE755VdGOdANFSG8g" name="identificacion_de_elementos_afectados,__LEBUkqlEeuUStZqQuD3rQ" guid="-aaMtXiE755VdGOdANFSG8g">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Se realiza un análisis detallado del impacto de la petición, con el fin de conocer el alcance real&#xD;
+de&lt;br />&#xD;
+la modificación en función del número, características y relaciones existentes entre los elementos&lt;br />&#xD;
+afectados.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4Hnn75WNOSLS2-QR34ZWwQ" name="jefe_del_proyecto,__LEBVUqlEeuUStZqQuD3rQ" guid="-4Hnn75WNOSLS2-QR34ZWwQ">
+    <refinedDescription>El jefe del proyecto es la persona que dirige el equipo de mantenimiento&amp;nbsp;para asegurar que se realiza el mantenimiento&#xD;
+siguiendo los puntos que se han ido estableciendo durante las actividades anteriores.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FPQLmJr4LzkgE2xY6pZOPQ" name="responsable_de_mantenimiento,__LEBV0qlEeuUStZqQuD3rQ" guid="-FPQLmJr4LzkgE2xY6pZOPQ">
+    <refinedDescription>El encargado de mantenimiento se ocupa de planear, supervisar y asegurar el proceso de mantenimieto del producto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2zj9_8p4sNxtKFR9Keolmw" name="aprobacion_y_cierre_de_la_peticion,_KPD6QEqmEeuUStZqQuD3rQ" guid="-2zj9_8p4sNxtKFR9Keolmw">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Se aprueba formalmente la finalización de la petición de mantenimiento de acuerdo a los&lt;br />&#xD;
+resultados obtenidos en la tarea anterior. Se actualiza el catálogo de peticiones registrando el&lt;br />&#xD;
+cierre de la petición tratada.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fgIdaYGCBG2SKtTzP0rsyA" name="realizacion_de_pruebas_de_regresion,_KPD6QUqmEeuUStZqQuD3rQ" guid="-fgIdaYGCBG2SKtTzP0rsyA">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Se realizan las pruebas de regresión definidas en la actividad anterior con el objeto de asegurar&#xD;
+que ningún sistema de información implicado en el cambio ve comprometido su funcionamiento normal.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;span class=&quot;fontstyle0&quot;>En el caso de detectarse problemas, se elabora un informe que recoge las incidencias.&lt;/span>&lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;span class=&quot;fontstyle0&quot;>Una vez que el comportamiento es correcto, se documenta el resultado global de la&lt;br />&#xD;
+evaluación.&lt;/span>&lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-R9BYEUDy7SMtC-U-F5KOAw" name="seguimiento_de_los_cambios,_KPD6QkqmEeuUStZqQuD3rQ" guid="-R9BYEUDy7SMtC-U-F5KOAw">
+    <refinedDescription>&lt;span class=&quot;fontstyle0&quot;>Se realiza el seguimiento de los cambios necesarios en los componentes de cada sistema de&lt;br />&#xD;
+información afectado, así como en los productos asociados.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ow0jE87TS0OavLk52IhmbQ" name="directores_de_los_usuarios,_KPEhUEqmEeuUStZqQuD3rQ" guid="-Ow0jE87TS0OavLk52IhmbQ">
+    <refinedDescription>Los Directores de las áreas organizativas y de usuarios afectadas por el proyecto aportan información sobre las necesidades&#xD;
+planteadas y validan los resultados con el fin de garantizar la identificación, comprensión e incorporación de todos los&#xD;
+requisitos con las prioridades adecuadas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sbnik1W8JE52Ka7g9rWSVw" name="responsable_de_mantenimiento,_KPEhUkqmEeuUStZqQuD3rQ" guid="-sbnik1W8JE52Ka7g9rWSVw">
+    <refinedDescription>El encargado de mantenimiento se ocupa de planear, supervisar y asegurar el proceso de mantenimieto del producto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tgPLU9wbEX-fAsehV8Uu0Q" name="jefe_del_proyecto,_KPEhVkqmEeuUStZqQuD3rQ" guid="-tgPLU9wbEX-fAsehV8Uu0Q">
+    <refinedDescription>El jefe del proyecto es la persona que dirige el equipo de mantenimiento&amp;nbsp;para asegurar que se realiza el mantenimiento&#xD;
+siguiendo los puntos que se han ido estableciendo durante las actividades anteriores.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

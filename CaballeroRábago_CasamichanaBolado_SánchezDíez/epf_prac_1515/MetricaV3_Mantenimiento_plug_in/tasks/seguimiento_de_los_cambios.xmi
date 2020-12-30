@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OdPo5MQ6k-CvBh8deBWL7A" name=",_7XXREElDEeuXepEtGW6jeg" guid="-OdPo5MQ6k-CvBh8deBWL7A">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OdPo5MQ6k-CvBh8deBWL7A" name=",_7XXREElDEeuXepEtGW6jeg" guid="-OdPo5MQ6k-CvBh8deBWL7A" changeDate="2020-12-30T14:12:25.219+0100">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Se realiza el seguimiento de los cambios necesarios en los componentes de cada sistema de&lt;br />&#xD;
+información afectado, así como en los productos asociados.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
   <sections xmi:id="_B5YMkElEEeuXepEtGW6jeg" name="Se hace el seguimiento al plan de acción " guid="_B5YMkElEEeuXepEtGW6jeg">
     <sectionDescription>De acuerdo a los puntos de control mencionados en el último step de la actividad anmterior.</sectionDescription>
   </sections>

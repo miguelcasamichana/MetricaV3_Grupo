@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_G8y70EOhEeuqG6BlZi_RfA" guid="_G8y70EOhEeuqG6BlZi_RfA">
-    <resourceDescriptors xmi:id="_G8zi4EOhEeuqG6BlZi_RfA" id="-H_CL9cLhZBnzH2nbTh2scg" uri="content.xmi"/>
-    <resourceDescriptors xmi:id="_kyTe4Eh2EeuxjY-rtmALYg" id="-AQtLm3zYmbl15MkXaadWHw" uri="content.xmi"/>
-    <resourceDescriptors xmi:id="_kyYXYEh2EeuxjY-rtmALYg" id="-kmMtLeWvk-3DhMzN-uEqgA" uri="content.xmi"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_GsFYMEqlEeuUStZqQuD3rQ" guid="_GsFYMEqlEeuUStZqQuD3rQ">
+    <resourceDescriptors xmi:id="_GsFYMUqlEeuUStZqQuD3rQ" id="-ka0U0pkYCLmCVgIqJhQoUQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l8zMoEqmEeuUStZqQuD3rQ" id="-ojxDiJAojjlTPqZ1_GKxIQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l82P8EqmEeuUStZqQuD3rQ" id="-8K1wL-xL5aIhIFIc1XNHkQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l856UEqmEeuUStZqQuD3rQ" id="-MQEIzJp2ObgAo06wdE4sSg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l889oEqmEeuUStZqQuD3rQ" id="-1A6Z9CZksSo8KE-XMpGxDQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9AA8EqmEeuUStZqQuD3rQ" id="-VPutGMOKyI_rvWxHbQveCw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9DEQEqmEeuUStZqQuD3rQ" id="-7SXQBTBVD5L0KSXWs6SHdg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9GuoEqmEeuUStZqQuD3rQ" id="-QzHY5qXlDJx10ACg8tV8pA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9JK4EqmEeuUStZqQuD3rQ" id="-KnbtGmKakt8D_OHUWzst_g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9M1QEqmEeuUStZqQuD3rQ" id="-LXnbOcdxnUVbwlgbNAhDPw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9P4kEqmEeuUStZqQuD3rQ" id="--_C2SCmNNMeJ_SsZkuxy7A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9S74EqmEeuUStZqQuD3rQ" id="--68DqzoFxxIPtre6lpwZ0w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9V_MEqmEeuUStZqQuD3rQ" id="-aaMtXiE755VdGOdANFSG8g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9ZCgEqmEeuUStZqQuD3rQ" id="-4Hnn75WNOSLS2-QR34ZWwQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9cF0EqmEeuUStZqQuD3rQ" id="-FPQLmJr4LzkgE2xY6pZOPQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9fwMEqmEeuUStZqQuD3rQ" id="-2zj9_8p4sNxtKFR9Keolmw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9izgEqmEeuUStZqQuD3rQ" id="-fgIdaYGCBG2SKtTzP0rsyA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9l20EqmEeuUStZqQuD3rQ" id="-R9BYEUDy7SMtC-U-F5KOAw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9phMEqmEeuUStZqQuD3rQ" id="-Ow0jE87TS0OavLk52IhmbQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9skgEqmEeuUStZqQuD3rQ" id="-sbnik1W8JE52Ka7g9rWSVw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_l9wO4EqmEeuUStZqQuD3rQ" id="-tgPLU9wbEX-fAsehV8Uu0Q" uri="content.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:ProcessComponent xmi:id="_G8A4sEOhEeuqG6BlZi_RfA" name="MSI" guid="_G8A4sEOhEeuqG6BlZi_RfA">
-    <methodElementProperty xmi:id="_G8BfwEOhEeuqG6BlZi_RfA" name="pkg_loadCheck" value="true"/>
-    <methodElementProperty xmi:id="_0inDAEOhEeuqG6BlZi_RfA" name="me_edited" value="true"/>
-    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_K-WswEOhEeuqG6BlZi_RfA" name="Mantenimiento" guid="_K-WswEOhEeuqG6BlZi_RfA">
-      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yGShoEhvEeuxjY-rtmALYg" name="Registro de la peticion´" guid="_yGShoEhvEeuxjY-rtmALYg">
-        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_yGShoUhvEeuxjY-rtmALYg" name="Registro de la peticion´" guid="_yGShoUhvEeuxjY-rtmALYg" presentationName="Registro de la peticion" superActivities="_K-WswUOhEeuqG6BlZi_RfA" breakdownElements="_EabK4EhxEeuxjY-rtmALYg _EabK4UhxEeuxjY-rtmALYg _Eabx8EhxEeuxjY-rtmALYg _Eabx8khxEeuxjY-rtmALYg"/>
-        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EabK4EhxEeuxjY-rtmALYg" name="registro_de_la_peticion" guid="_EabK4EhxEeuxjY-rtmALYg" presentationName="Registro de la peticion" briefDescription="Tarea para registrar peticiones de los usuarios." superActivities="_yGShoUhvEeuxjY-rtmALYg" mandatoryInput="_Eabx8EhxEeuxjY-rtmALYg" output="_Eabx8khxEeuxjY-rtmALYg" performedPrimarilyBy="_EabK4UhxEeuxjY-rtmALYg">
-          <methodElementProperty xmi:id="_EakU0EhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-          <presentation xmi:id="-AQtLm3zYmbl15MkXaadWHw" href="uma://-H_CL9cLhZBnzH2nbTh2scg#-AQtLm3zYmbl15MkXaadWHw"/>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_Grap0EqlEeuUStZqQuD3rQ" name="MSI" guid="_Grap0EqlEeuUStZqQuD3rQ">
+    <methodElementProperty xmi:id="_GrrIgEqlEeuUStZqQuD3rQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_PeQ_gEqlEeuUStZqQuD3rQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PvVhYEqlEeuUStZqQuD3rQ" name="Mantenimiento" guid="_PvVhYEqlEeuUStZqQuD3rQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_W_92YEqlEeuUStZqQuD3rQ" name="Act1" guid="_W_92YEqlEeuUStZqQuD3rQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_W_92YUqlEeuUStZqQuD3rQ" name="Act1" guid="_W_92YUqlEeuUStZqQuD3rQ" presentationName="Registro de la petición" superActivities="_PvVhYUqlEeuUStZqQuD3rQ" breakdownElements="_bhvYcEqlEeuUStZqQuD3rQ _bhvYcUqlEeuUStZqQuD3rQ _bhvYc0qlEeuUStZqQuD3rQ _bhvYdUqlEeuUStZqQuD3rQ _ySIAAEqlEeuUStZqQuD3rQ _ySIAAUqlEeuUStZqQuD3rQ _ySInEEqlEeuUStZqQuD3rQ _ySInEkqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_bhvYcEqlEeuUStZqQuD3rQ" name="registro_de_la_peticion" guid="_bhvYcEqlEeuUStZqQuD3rQ" presentationName="Registro de la peticion" briefDescription="Tarea para registrar peticiones de los usuarios." superActivities="_W_92YUqlEeuUStZqQuD3rQ" mandatoryInput="_bhvYc0qlEeuUStZqQuD3rQ" output="_bhvYdUqlEeuUStZqQuD3rQ" performedPrimarilyBy="_bhvYcUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_bhwmkEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-ojxDiJAojjlTPqZ1_GKxIQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-ojxDiJAojjlTPqZ1_GKxIQ"/>
           <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
           <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_0P94AEOaEeu3HJm-bTROfg"/>
           <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_fCzPUEOdEeu3HJm-bTROfg"/>
@@ -24,27 +42,360 @@
           <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_r9BYIEOfEeuqG6BlZi_RfA"/>
           <selectedSteps href="uma://-GSNX4aFRgIqQQSB7ivrY7Q#_t4eYMEOfEeuqG6BlZi_RfA"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_EabK4UhxEeuxjY-rtmALYg" name="responsable_de_mantenimiento" guid="_EabK4UhxEeuxjY-rtmALYg" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software." isPlanned="false" superActivities="_yGShoUhvEeuxjY-rtmALYg" modifies="_Eabx8khxEeuxjY-rtmALYg">
-          <methodElementProperty xmi:id="_EabK4khxEeuxjY-rtmALYg" name="descriptor_createdByReference" value="true"/>
-          <methodElementProperty xmi:id="_Eali8EhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-          <presentation xmi:id="-kmMtLeWvk-3DhMzN-uEqgA" href="uma://-H_CL9cLhZBnzH2nbTh2scg#-kmMtLeWvk-3DhMzN-uEqgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_bhvYcUqlEeuUStZqQuD3rQ" name="responsable_de_mantenimiento" guid="_bhvYcUqlEeuUStZqQuD3rQ" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software." isPlanned="false" superActivities="_W_92YUqlEeuUStZqQuD3rQ" modifies="_bhvYdUqlEeuUStZqQuD3rQ _ySInEkqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_bhvYckqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_bhzC0EqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-8K1wL-xL5aIhIFIc1XNHkQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-8K1wL-xL5aIhIFIc1XNHkQ"/>
           <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Gao4sEObEeu3HJm-bTROfg"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Eabx8EhxEeuxjY-rtmALYg" name="peticion_mantenimiento" guid="_Eabx8EhxEeuxjY-rtmALYg" presentationName="Peticion Mantenimiento" briefDescription="Petición externa que realiza el usuario para realizar un control de mantenimiento a los cambios que se hayan realizado recientemente." isPlanned="false" superActivities="_yGShoUhvEeuxjY-rtmALYg">
-          <methodElementProperty xmi:id="_Eabx8UhxEeuxjY-rtmALYg" name="descriptor_createdByReference" value="true"/>
-          <methodElementProperty xmi:id="_EamxEEhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_bhvYc0qlEeuUStZqQuD3rQ" name="peticion_mantenimiento" guid="_bhvYc0qlEeuUStZqQuD3rQ" presentationName="Peticion Mantenimiento" briefDescription="Petición externa que realiza el usuario para realizar un control de mantenimiento a los cambios que se hayan realizado recientemente." isPlanned="false" superActivities="_W_92YUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_bhvYdEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_bhzp4EqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_okFDMEObEeu3HJm-bTROfg"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Eabx8khxEeuxjY-rtmALYg" name="catalogo_de_peticiones" guid="_Eabx8khxEeuxjY-rtmALYg" presentationName="Catálogo de Peticiones" briefDescription="Catálogo que servirá de base para abordar, en tareas posteriores, el análisis de la petición,&#xD;&#xA;realizar la modificación solicitada y proporcionar datos estadísticos sobre peticiones recibidas o&#xD;&#xA;atendidas." isPlanned="false" superActivities="_yGShoUhvEeuxjY-rtmALYg">
-          <methodElementProperty xmi:id="_Eabx80hxEeuxjY-rtmALYg" name="descriptor_createdByReference" value="true"/>
-          <methodElementProperty xmi:id="_EamxEUhxEeuxjY-rtmALYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_bhvYdUqlEeuUStZqQuD3rQ" name="catalogo_de_peticiones" guid="_bhvYdUqlEeuUStZqQuD3rQ" presentationName="Catálogo de Peticiones" briefDescription="Catálogo que servirá de base para abordar, en tareas posteriores, el análisis de la petición,&#xD;&#xA;realizar la modificación solicitada y proporcionar datos estadísticos sobre peticiones recibidas o&#xD;&#xA;atendidas." isPlanned="false" superActivities="_W_92YUqlEeuUStZqQuD3rQ" impacts="_ySInEkqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_bhvYdkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_bhx0sEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_vTVl8EOaEeu3HJm-bTROfg"/>
         </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ySIAAEqlEeuUStZqQuD3rQ" name="asignacion_de_la_peticion" guid="_ySIAAEqlEeuUStZqQuD3rQ" presentationName="Asignación de la petición" briefDescription="Se estudian los criterios y se acepta o rechaza la petición." superActivities="_W_92YUqlEeuUStZqQuD3rQ" linkToPredecessor="_oGbLkEqmEeuUStZqQuD3rQ" mandatoryInput="_bhvYdUqlEeuUStZqQuD3rQ _ySInEEqlEeuUStZqQuD3rQ" output="_ySInEkqlEeuUStZqQuD3rQ" performedPrimarilyBy="_ySIAAUqlEeuUStZqQuD3rQ _bhvYcUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_ySOGoEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-MQEIzJp2ObgAo06wdE4sSg" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-MQEIzJp2ObgAo06wdE4sSg"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_whCigEeoEeuaEpjJwJueTw"/>
+          <selectedSteps href="uma://-us_quyG8HP-qXD2ThPH4PQ#_XuINEEepEeuaEpjJwJueTw"/>
+          <selectedSteps href="uma://-us_quyG8HP-qXD2ThPH4PQ#_aLBtUEepEeuaEpjJwJueTw"/>
+          <selectedSteps href="uma://-us_quyG8HP-qXD2ThPH4PQ#_dReg4EepEeuaEpjJwJueTw"/>
+          <selectedSteps href="uma://-us_quyG8HP-qXD2ThPH4PQ#_Z0OE8EerEeuaEpjJwJueTw"/>
+          <selectedSteps href="uma://-us_quyG8HP-qXD2ThPH4PQ#_hhFU4EepEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ySIAAUqlEeuUStZqQuD3rQ" name="responsable_de_la_peticion" guid="_ySIAAUqlEeuUStZqQuD3rQ" presentationName="Responsable de la petición" briefDescription="Es asignado en la tarea de asignación de petición." isPlanned="false" superActivities="_W_92YUqlEeuUStZqQuD3rQ" modifies="_ySInEkqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_ySIAAkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_ySPUwEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-1A6Z9CZksSo8KE-XMpGxDQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-1A6Z9CZksSo8KE-XMpGxDQ"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_gsgDsEkREeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ySInEEqlEeuUStZqQuD3rQ" name="plan_de_mantenimiento" guid="_ySInEEqlEeuUStZqQuD3rQ" presentationName="Plan de mantenimiento" briefDescription="Se establece de manera formal el plan que hay que seguir para llevar a cabo el mantenimiento del sistema. Basado ene el estandar IAS 7.2." isPlanned="false" superActivities="_W_92YUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_ySInEUqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_ySOtsEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_8kdboEepEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ySInEkqlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_1.2" guid="_ySInEkqlEeuUStZqQuD3rQ" presentationName="Catalogo de peticiones (MSI 1.2)" briefDescription="Catalogo de peticiones resultante de la asignación de la petición de mantenimiento (MSI 1.2)." isPlanned="false" superActivities="_W_92YUqlEeuUStZqQuD3rQ" impactedBy="_bhvYdUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_ySInE0qlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_ySQi4EqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_v3RXQEhtEeuBA--oqPZ12w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_oGbLkEqmEeuUStZqQuD3rQ" guid="_oGbLkEqmEeuUStZqQuD3rQ" pred="_bhvYcEqlEeuUStZqQuD3rQ"/>
       </childPackages>
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_K-WswUOhEeuqG6BlZi_RfA" name="Mantenimiento" guid="_K-WswUOhEeuqG6BlZi_RfA" presentationName="Mantenimiento" superActivities="_G8A4sUOhEeuqG6BlZi_RfA" breakdownElements="_yGShoUhvEeuxjY-rtmALYg"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0MurgEqlEeuUStZqQuD3rQ" name="Análisis de la petición" guid="_0MurgEqlEeuUStZqQuD3rQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_0MurgUqlEeuUStZqQuD3rQ" name="Análisis de la petición" guid="_0MurgUqlEeuUStZqQuD3rQ" presentationName="Análisis de la petición" superActivities="_PvVhYUqlEeuUStZqQuD3rQ" linkToPredecessor="_kNo8IEqmEeuUStZqQuD3rQ" breakdownElements="_3cTl4EqlEeuUStZqQuD3rQ _3cTl4UqlEeuUStZqQuD3rQ _3cUM8EqlEeuUStZqQuD3rQ _3cUM8kqlEeuUStZqQuD3rQ _3cUM9EqlEeuUStZqQuD3rQ _3cUM9kqlEeuUStZqQuD3rQ _3cUM-EqlEeuUStZqQuD3rQ _4X0y8EqlEeuUStZqQuD3rQ _4X0y8UqlEeuUStZqQuD3rQ _4X0y8kqlEeuUStZqQuD3rQ _4X0y9EqlEeuUStZqQuD3rQ _4X0y9kqlEeuUStZqQuD3rQ _4X0y-EqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3cTl4EqlEeuUStZqQuD3rQ" name="verificacion_estudio_peticion_correctivo" guid="_3cTl4EqlEeuUStZqQuD3rQ" presentationName="Verificación y estucio de la petición (mantenimiento correctivo)" superActivities="_0MurgUqlEeuUStZqQuD3rQ" linkToPredecessor="_oZHBkEqnEeuUStZqQuD3rQ" mandatoryInput="_3cUM8kqlEeuUStZqQuD3rQ _3cUM9EqlEeuUStZqQuD3rQ" output="_3cUM9kqlEeuUStZqQuD3rQ _3cUM-EqlEeuUStZqQuD3rQ" performedPrimarilyBy="_3cUM8EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cVbEEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-VPutGMOKyI_rvWxHbQveCw" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-VPutGMOKyI_rvWxHbQveCw"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <guidelines href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_I2C5AEkeEeuUcMl77XK-lQ"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_B_mjwEesEeuaEpjJwJueTw"/>
+          <selectedSteps href="uma://-TLB9nV4A1GBbzut0kYocKg#_-G0ysEkcEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-TLB9nV4A1GBbzut0kYocKg#_MY5KIEkdEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-TLB9nV4A1GBbzut0kYocKg#_p_kUEEkdEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-TLB9nV4A1GBbzut0kYocKg#_0SIwEEkdEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-TLB9nV4A1GBbzut0kYocKg#_8h8qIEkdEeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3cTl4UqlEeuUStZqQuD3rQ" name="verificacion_estudio_peticion_evolutivo" guid="_3cTl4UqlEeuUStZqQuD3rQ" presentationName="Verificacion de la peticion (mantenimiento evolutivo)" superActivities="_0MurgUqlEeuUStZqQuD3rQ" linkToPredecessor="_p59JQEqnEeuUStZqQuD3rQ" mandatoryInput="_3cUM9EqlEeuUStZqQuD3rQ _3cUM8kqlEeuUStZqQuD3rQ" output="_3cUM-EqlEeuUStZqQuD3rQ _3cUM9kqlEeuUStZqQuD3rQ" performedPrimarilyBy="_3cUM8EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cbhsEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-7SXQBTBVD5L0KSXWs6SHdg" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-7SXQBTBVD5L0KSXWs6SHdg"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <guidelines href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_I2C5AEkeEeuUcMl77XK-lQ"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_XzAdAEkdEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-OBtM02nZ7y25YbB7qkdxCQ#_aZo8gEknEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-OBtM02nZ7y25YbB7qkdxCQ#_b09D8EknEeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-OBtM02nZ7y25YbB7qkdxCQ#_epPJcEknEeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_3cUM8EqlEeuUStZqQuD3rQ" name="equipo_de_mantenimiento" guid="_3cUM8EqlEeuUStZqQuD3rQ" presentationName="Equipo de mantenimiento" briefDescription="Conjunto de trabajadores cuya funcion es llevar a cabo lo que se especifique en las peticiones de mantenimiento." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ" modifies="_3cUM9kqlEeuUStZqQuD3rQ _3cUM-EqlEeuUStZqQuD3rQ _4X0y9kqlEeuUStZqQuD3rQ _4X0y-EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cUM8UqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_3cWpMEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_HuFUEEetEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3cUM8kqlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_1.2" guid="_3cUM8kqlEeuUStZqQuD3rQ" presentationName="Catalogo de peticiones (MSI 1.2)" briefDescription="Catalogo de peticiones resultante de la asignación de la petición de mantenimiento (MSI 1.2)." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ" impacts="_3cUM-EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cUM80qlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_3caTkEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_v3RXQEhtEeuBA--oqPZ12w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3cUM9EqlEeuUStZqQuD3rQ" name="acuerdo_de_nivel_de_servicio" guid="_3cUM9EqlEeuUStZqQuD3rQ" presentationName="Acuerdo de Nivel de Servicio" briefDescription="Contrato entre un proveedor de servicios y sus clientes que documenta qué servicios proporcionará el proveedor y define los estándares de servicio que el proveedor está obligado a cumplir." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cUM9UqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_3cZsgEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_9fojEEesEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3cUM9kqlEeuUStZqQuD3rQ" name="resultado_del_estudio_de_la_peticion" guid="_3cUM9kqlEeuUStZqQuD3rQ" presentationName="Resultado del Estudio de la Petición" briefDescription="Documento que recoge todos los puntos que se han especificado durante el estudio de la petición, que se usará como guia a la hora de atender la misma." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cUM90qlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_3cX3UEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_BCcigEetEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3cUM-EqlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_2.1" guid="_3cUM-EqlEeuUStZqQuD3rQ" presentationName="Catalogo de peticiones (MSI 2.1)" briefDescription="Catalogo de peticiones resultante de la verificación y estudio de la petición (2.1)." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ" impactedBy="_3cUM8kqlEeuUStZqQuD3rQ" impacts="_4X0y9kqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_3cUM-UqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_3cYeYEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Cp5wwEknEeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4X0y8EqlEeuUStZqQuD3rQ" name="estudio_propuesta_solucion_correctivo" guid="_4X0y8EqlEeuUStZqQuD3rQ" presentationName="Estudio de la propuesta de solución (Mantenimiento Correctivo)" briefDescription="Estimacion del alcance de la propuesta de solucion." superActivities="_0MurgUqlEeuUStZqQuD3rQ" linkToPredecessor="_Jy9XoEqnEeuUStZqQuD3rQ" mandatoryInput="_3cUM9EqlEeuUStZqQuD3rQ _3cUM-EqlEeuUStZqQuD3rQ _4X0y9EqlEeuUStZqQuD3rQ _3cUM9kqlEeuUStZqQuD3rQ" output="_4X0y9kqlEeuUStZqQuD3rQ _4X0y-EqlEeuUStZqQuD3rQ" performedPrimarilyBy="_4X0y8kqlEeuUStZqQuD3rQ _3cUM8EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_4X-j8EqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-QzHY5qXlDJx10ACg8tV8pA" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-QzHY5qXlDJx10ACg8tV8pA"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <guidelines href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_I2C5AEkeEeuUcMl77XK-lQ"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_RsT3oEk1EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_2YFfMEk5EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_3W4pwEk5EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_4hpMsEk5EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_56cysEk5EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_7icEMEk5EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_bFxvIEk6EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_IWYQwEk6EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_T40ZMEk6EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_c9amMEk6EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-wuJKxLpbqRFQEkxFlNRDXQ#_f2MxMEk6EeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4X0y8UqlEeuUStZqQuD3rQ" name="estudio_propuesta_solucion_evolutivo" guid="_4X0y8UqlEeuUStZqQuD3rQ" presentationName="Estudio de la propuesta de solución (Mantenimiento Evolutivo)" briefDescription="Estimacion del alcance de la propuesta de solucion." superActivities="_0MurgUqlEeuUStZqQuD3rQ" linkToPredecessor="_KOL7EEqnEeuUStZqQuD3rQ" mandatoryInput="_3cUM9EqlEeuUStZqQuD3rQ _3cUM-EqlEeuUStZqQuD3rQ _4X0y9EqlEeuUStZqQuD3rQ _3cUM9kqlEeuUStZqQuD3rQ" output="_4X0y-EqlEeuUStZqQuD3rQ _4X0y9kqlEeuUStZqQuD3rQ" performedPrimarilyBy="_3cUM8EqlEeuUStZqQuD3rQ _4X0y8kqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_4YC1YEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-KnbtGmKakt8D_OHUWzst_g" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-KnbtGmKakt8D_OHUWzst_g"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <guidelines href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_I2C5AEkeEeuUcMl77XK-lQ"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_KFVfMEk1EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_Sf4-wEk3EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_cC7bQEk3EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_0A9hsEk3EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_29kcwEk3EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_tXAVsEk4EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_4-krMEk3EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_MOHCMEk4EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_V7iJwEk4EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_5SyyQEk4EeuUcMl77XK-lQ"/>
+          <selectedSteps href="uma://-cjclotKZNVXbAf7dN81lbA#_6uMZQEk4EeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_4X0y8kqlEeuUStZqQuD3rQ" name="responsable_de_mantenimiento" guid="_4X0y8kqlEeuUStZqQuD3rQ" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ" modifies="_4X0y9kqlEeuUStZqQuD3rQ _4X0y-EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_4X0y80qlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_4X_yEEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-LXnbOcdxnUVbwlgbNAhDPw" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-LXnbOcdxnUVbwlgbNAhDPw"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Gao4sEObEeu3HJm-bTROfg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4X0y9EqlEeuUStZqQuD3rQ" name="plan_de_mantenimiento" guid="_4X0y9EqlEeuUStZqQuD3rQ" presentationName="Plan de mantenimiento" briefDescription="Se establece de manera formal el plan que hay que seguir para llevar a cabo el mantenimiento del sistema. Basado ene el estandar IAS 7.2." isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_4X0y9UqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_4YBAMEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_8kdboEepEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4X0y9kqlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_2.2" guid="_4X0y9kqlEeuUStZqQuD3rQ" presentationName="Catálogo de peticiones (MSI 2.2)" briefDescription="Catalogo de peticiones resultante de lal estudio de la propuesta de solución (2.2)" isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ" impactedBy="_3cUM-EqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_4X0y90qlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_4YAZIEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_geShYEk5EeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4X0y-EqlEeuUStZqQuD3rQ" name="propuesta_de_solucion_msi_2.2" guid="_4X0y-EqlEeuUStZqQuD3rQ" presentationName="Propuesta de Solución (MSI 2.2)" briefDescription="Documento que recoge la solucion que se ha acordado con el cliente sobre la peticion que realizó. " isPlanned="false" superActivities="_0MurgUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_4X0y-UqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_4X_LAEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_TqiiEEk5EeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kNo8IEqmEeuUStZqQuD3rQ" guid="_kNo8IEqmEeuUStZqQuD3rQ" pred="_W_92YUqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Jy9XoEqnEeuUStZqQuD3rQ" guid="_Jy9XoEqnEeuUStZqQuD3rQ" pred="_3cTl4EqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KOL7EEqnEeuUStZqQuD3rQ" guid="_KOL7EEqnEeuUStZqQuD3rQ" pred="_3cTl4UqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_oZHBkEqnEeuUStZqQuD3rQ" guid="_oZHBkEqnEeuUStZqQuD3rQ" pred="_ySIAAEqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_p59JQEqnEeuUStZqQuD3rQ" guid="_p59JQEqnEeuUStZqQuD3rQ" pred="_ySIAAEqlEeuUStZqQuD3rQ"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6PqeUEqlEeuUStZqQuD3rQ" name="Preparación de la implementación de la modificación" guid="_6PqeUEqlEeuUStZqQuD3rQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_6PqeUUqlEeuUStZqQuD3rQ" name="Preparación de la implementación de la modificación" guid="_6PqeUUqlEeuUStZqQuD3rQ" presentationName="Preparación de la implementación de la modificación" superActivities="_PvVhYUqlEeuUStZqQuD3rQ" linkToPredecessor="_kp3lIEqmEeuUStZqQuD3rQ" breakdownElements="__LEBUkqlEeuUStZqQuD3rQ __LEBUUqlEeuUStZqQuD3rQ __LEBUEqlEeuUStZqQuD3rQ __LEBU0qlEeuUStZqQuD3rQ __LEBVUqlEeuUStZqQuD3rQ __LEBV0qlEeuUStZqQuD3rQ __LEBWUqlEeuUStZqQuD3rQ __LEBW0qlEeuUStZqQuD3rQ __LEBXUqlEeuUStZqQuD3rQ __LEBX0qlEeuUStZqQuD3rQ __LEBYUqlEeuUStZqQuD3rQ __LEBY0qlEeuUStZqQuD3rQ __LEBZUqlEeuUStZqQuD3rQ __LEBZ0qlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="__LEBUEqlEeuUStZqQuD3rQ" name="especificacion_del_plan_de_pruebas_de_regresion" guid="__LEBUEqlEeuUStZqQuD3rQ" presentationName="Especificación del Plan de Pruebas de Regresión" briefDescription="Establecimiento de un conjunto de pruebas de regresion a aplicar tras el mantenimineto." superActivities="_6PqeUUqlEeuUStZqQuD3rQ" linkToPredecessor="_MpijMEqnEeuUStZqQuD3rQ" mandatoryInput="__LEBWUqlEeuUStZqQuD3rQ __LEBW0qlEeuUStZqQuD3rQ __LEBXUqlEeuUStZqQuD3rQ" output="__LEBX0qlEeuUStZqQuD3rQ" performedPrimarilyBy="__LEBU0qlEeuUStZqQuD3rQ __LEBVUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LF2gEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="--_C2SCmNNMeJ_SsZkuxy7A" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#--_C2SCmNNMeJ_SsZkuxy7A"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_R9tdwElCEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-PKQenPrqZcf_4Pmpnq2_uw#_n_jkUElCEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="__LEBUUqlEeuUStZqQuD3rQ" name="establecimiento_del_plan_de_accion" guid="__LEBUUqlEeuUStZqQuD3rQ" presentationName="Establecimiento del plan de acción" briefDescription="Se crea y aprueba el plan de accion a seguir para realizar el mantenimiento." superActivities="_6PqeUUqlEeuUStZqQuD3rQ" linkToPredecessor="_MRhEwEqnEeuUStZqQuD3rQ" mandatoryInput="__LEBWUqlEeuUStZqQuD3rQ __LEBYUqlEeuUStZqQuD3rQ __LEBXUqlEeuUStZqQuD3rQ __LEBY0qlEeuUStZqQuD3rQ" output="__LEBW0qlEeuUStZqQuD3rQ __LEBZUqlEeuUStZqQuD3rQ" performedPrimarilyBy="__LEBV0qlEeuUStZqQuD3rQ __LEBU0qlEeuUStZqQuD3rQ __LEBVUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LL9IEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="--68DqzoFxxIPtre6lpwZ0w" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#--68DqzoFxxIPtre6lpwZ0w"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__2HmQElBEeuXepEtGW6jeg"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_0JJ6wEk_EeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-RyDrCixyoPfXGtevJgiymQ#_8veQUEk_EeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-RyDrCixyoPfXGtevJgiymQ#_MEpqkElAEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-RyDrCixyoPfXGtevJgiymQ#_Tcn9sElAEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-RyDrCixyoPfXGtevJgiymQ#_a0wo4ElAEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-RyDrCixyoPfXGtevJgiymQ#_jwU1sElAEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="__LEBUkqlEeuUStZqQuD3rQ" name="identificacion_de_elementos_afectados" guid="__LEBUkqlEeuUStZqQuD3rQ" presentationName="Identificación de elementos afectados" briefDescription="Análisis detallado del impacto de la petición" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" linkToPredecessor="_rWs0EEqnEeuUStZqQuD3rQ _rWs0EUqnEeuUStZqQuD3rQ" mandatoryInput="__LEBZ0qlEeuUStZqQuD3rQ __LEBXUqlEeuUStZqQuD3rQ" output="__LEBY0qlEeuUStZqQuD3rQ __LEBWUqlEeuUStZqQuD3rQ" performedPrimarilyBy="__LEBU0qlEeuUStZqQuD3rQ __LEBVUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LPAcEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-aaMtXiE755VdGOdANFSG8g" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-aaMtXiE755VdGOdANFSG8g"/>
+          <checklists href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_HQLrcEk_EeuXepEtGW6jeg"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_ZV7QMEk8EeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-fSa4GWgsbo4jOmwtut7jdA#_JCDjoEk9EeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-fSa4GWgsbo4jOmwtut7jdA#_Nt8D8Ek9EeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="__LEBU0qlEeuUStZqQuD3rQ" name="equipo_de_mantenimiento" guid="__LEBU0qlEeuUStZqQuD3rQ" presentationName="Equipo de mantenimiento" briefDescription="Conjunto de trabajadores cuya funcion es llevar a cabo lo que se especifique en las peticiones de mantenimiento." isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" modifies="__LEBX0qlEeuUStZqQuD3rQ __LEBY0qlEeuUStZqQuD3rQ __LEBWUqlEeuUStZqQuD3rQ __LEBW0qlEeuUStZqQuD3rQ __LEBZUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBVEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LJg4EqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_HuFUEEetEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="__LEBVUqlEeuUStZqQuD3rQ" name="jefe_del_proyecto" guid="__LEBVUqlEeuUStZqQuD3rQ" presentationName="Jefe del proyecto" briefDescription="Persona encargada de supervisar y dirigir al equipo de mantenimiento." isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" modifies="__LEBX0qlEeuUStZqQuD3rQ __LEBY0qlEeuUStZqQuD3rQ __LEBWUqlEeuUStZqQuD3rQ __LEBW0qlEeuUStZqQuD3rQ __LEBZUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBVkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LI50EqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-4Hnn75WNOSLS2-QR34ZWwQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-4Hnn75WNOSLS2-QR34ZWwQ"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_b6nP8Ek7EeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="__LEBV0qlEeuUStZqQuD3rQ" name="responsable_de_mantenimiento" guid="__LEBV0qlEeuUStZqQuD3rQ" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software." isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" modifies="__LEBW0qlEeuUStZqQuD3rQ __LEBZUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBWEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LNyUEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-FPQLmJr4LzkgE2xY6pZOPQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-FPQLmJr4LzkgE2xY6pZOPQ"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Gao4sEObEeu3HJm-bTROfg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBWUqlEeuUStZqQuD3rQ" name="analisis_del_impacto_de_los_cambios" guid="__LEBWUqlEeuUStZqQuD3rQ" presentationName="Análisis del impacto de los cambios" briefDescription="Documento que recopila y explica en detalle el impacto sobre los sistemas de información y otros elementos del entorno del producto que trendran los cambios que se realizarán durante el mantenimiento." isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBWkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LKvAEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_75ya8Ek-EeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBW0qlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_3.2" guid="__LEBW0qlEeuUStZqQuD3rQ" presentationName="Catálogo de peticiones (MSI 3.2)" briefDescription="Catalogo de peticiones resultante del establecimiento del plan de acción (3.2)" isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" impactedBy="__LEBY0qlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBXEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LGdkEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_g2P0wElBEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBXUqlEeuUStZqQuD3rQ" name="propuesta_de_solucion_msi_2.2" guid="__LEBXUqlEeuUStZqQuD3rQ" presentationName="Propuesta de Solución (MSI 2.2)" briefDescription="Documento que recoge la solucion que se ha acordado con el cliente sobre la peticion que realizó. " isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBXkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LHEoEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_TqiiEEk5EeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBX0qlEeuUStZqQuD3rQ" name="plan_de_pruebas_de_regresion" guid="__LEBX0qlEeuUStZqQuD3rQ" presentationName="Plan de pruebas de regresión" isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBYEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LHrsEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_vWfVoElCEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBYUqlEeuUStZqQuD3rQ" name="plan_de_mantenimiento" guid="__LEBYUqlEeuUStZqQuD3rQ" presentationName="Plan de mantenimiento" briefDescription="Se establece de manera formal el plan que hay que seguir para llevar a cabo el mantenimiento del sistema. Basado ene el estandar IAS 7.2." isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBYkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LMkMEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_8kdboEepEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBY0qlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_3.1" guid="__LEBY0qlEeuUStZqQuD3rQ" presentationName="Catálogo de peticiones (MSI 3.1)" briefDescription="Catalogo de peticiones resultante de la identificacion de elementos afectados (3.1)" isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" impactedBy="__LEBZ0qlEeuUStZqQuD3rQ" impacts="__LEBW0qlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBZEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LNyUUqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_p1nq4Ek-EeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBZUqlEeuUStZqQuD3rQ" name="plan_de_accion_para_la_modificacion" guid="__LEBZUqlEeuUStZqQuD3rQ" presentationName="Plan de acción para la modificación" briefDescription="Documento que formaliza el plan de accion (pasos a seguir) para aplicar los cambios. Recoge el procedimiento que se usará posteriormente para integrar los cambios en el producto." isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBZkqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LNLQEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_lb_Q0ElBEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__LEBZ0qlEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_2.2" guid="__LEBZ0qlEeuUStZqQuD3rQ" presentationName="Catálogo de peticiones (MSI 2.2)" briefDescription="Catalogo de peticiones resultante de lal estudio de la propuesta de solución (2.2)" isPlanned="false" superActivities="_6PqeUUqlEeuUStZqQuD3rQ" impacts="__LEBY0qlEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="__LEBaEqlEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="__LPngEqlEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_geShYEk5EeuUcMl77XK-lQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kp3lIEqmEeuUStZqQuD3rQ" guid="_kp3lIEqmEeuUStZqQuD3rQ" pred="_0MurgUqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MRhEwEqnEeuUStZqQuD3rQ" guid="_MRhEwEqnEeuUStZqQuD3rQ" pred="__LEBUkqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MpijMEqnEeuUStZqQuD3rQ" guid="_MpijMEqnEeuUStZqQuD3rQ" pred="__LEBUUqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_rWs0EEqnEeuUStZqQuD3rQ" guid="_rWs0EEqnEeuUStZqQuD3rQ" pred="_4X0y8EqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_rWs0EUqnEeuUStZqQuD3rQ" guid="_rWs0EUqnEeuUStZqQuD3rQ" pred="_4X0y8UqlEeuUStZqQuD3rQ"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CjYoAEqmEeuUStZqQuD3rQ" name="Seguimiento y evaluación de los cambios hasta la aceptación" guid="_CjYoAEqmEeuUStZqQuD3rQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_CjYoAUqmEeuUStZqQuD3rQ" name="Seguimiento y evaluación de los cambios hasta la aceptación" guid="_CjYoAUqmEeuUStZqQuD3rQ" presentationName="Seguimiento y evaluación de los cambios hasta la aceptación" superActivities="_PvVhYUqlEeuUStZqQuD3rQ" linkToPredecessor="_lLhgsEqmEeuUStZqQuD3rQ" breakdownElements="_KPD6QkqmEeuUStZqQuD3rQ _KPD6QUqmEeuUStZqQuD3rQ _KPD6QEqmEeuUStZqQuD3rQ _KPEhUEqmEeuUStZqQuD3rQ _KPEhUkqmEeuUStZqQuD3rQ _KPEhVEqmEeuUStZqQuD3rQ _KPEhVkqmEeuUStZqQuD3rQ _KPFIYEqmEeuUStZqQuD3rQ _KPFIYkqmEeuUStZqQuD3rQ _KPFIZEqmEeuUStZqQuD3rQ _KPFIZkqmEeuUStZqQuD3rQ _KPFIaEqmEeuUStZqQuD3rQ _KPFIakqmEeuUStZqQuD3rQ _KPFIbEqmEeuUStZqQuD3rQ _KPFIbkqmEeuUStZqQuD3rQ _KPFIcEqmEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_KPD6QEqmEeuUStZqQuD3rQ" name="aprobacion_y_cierre_de_la_peticion" guid="_KPD6QEqmEeuUStZqQuD3rQ" presentationName="Aprobación y Cierre de la Petición" briefDescription="Se aprueba y cierra la peticion una vez hechos todos los cambios." superActivities="_CjYoAUqmEeuUStZqQuD3rQ" linkToPredecessor="_dkwHIEqnEeuUStZqQuD3rQ" mandatoryInput="_KPFIYEqmEeuUStZqQuD3rQ _KPFIYkqmEeuUStZqQuD3rQ _KPFIZEqmEeuUStZqQuD3rQ _KPFIZkqmEeuUStZqQuD3rQ" output="_KPFIaEqmEeuUStZqQuD3rQ" performedPrimarilyBy="_KPEhUEqmEeuUStZqQuD3rQ _KPEhUkqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPHkoEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-2zj9_8p4sNxtKFR9Keolmw" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-2zj9_8p4sNxtKFR9Keolmw"/>
+          <concepts href="uma://_Zz8sMEOaEeu3HJm-bTROfg#__OsyQEOhEeuqG6BlZi_RfA"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Vf51UElGEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-DNm7EKmyDq2EfEmT7I7WGA#_ZGEDsElGEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-DNm7EKmyDq2EfEmT7I7WGA#_ZuOP4ElGEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-DNm7EKmyDq2EfEmT7I7WGA#_ebZwsElGEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_KPD6QUqmEeuUStZqQuD3rQ" name="realizacion_de_pruebas_de_regresion" guid="_KPD6QUqmEeuUStZqQuD3rQ" presentationName="Realización de pruebas de regresión" briefDescription="Se realizan las pruebas de regresión definidas en la actividad anterior." superActivities="_CjYoAUqmEeuUStZqQuD3rQ" linkToPredecessor="_dDMSMEqnEeuUStZqQuD3rQ" mandatoryInput="_KPFIZkqmEeuUStZqQuD3rQ _KPFIakqmEeuUStZqQuD3rQ" output="_KPFIZEqmEeuUStZqQuD3rQ _KPFIbEqmEeuUStZqQuD3rQ" performedPrimarilyBy="_KPEhVEqmEeuUStZqQuD3rQ _KPEhVkqmEeuUStZqQuD3rQ _KPEhUkqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPNrQEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-fgIdaYGCBG2SKtTzP0rsyA" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-fgIdaYGCBG2SKtTzP0rsyA"/>
+          <guidelines href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_GFyQsElGEeuXepEtGW6jeg"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_hjGW4ElFEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-JE4LStLOqxdkpiWPJ0sJTQ#_nQYCwElFEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-JE4LStLOqxdkpiWPJ0sJTQ#_wUkAEElFEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-JE4LStLOqxdkpiWPJ0sJTQ#_4WJQ4ElFEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_KPD6QkqmEeuUStZqQuD3rQ" name="seguimiento_de_los_cambios" guid="_KPD6QkqmEeuUStZqQuD3rQ" presentationName="Seguimiento de los cambios" briefDescription="Se hace el seguimiento del plan de acción de acuerdo a los puntos de control establecidos en la&#xD;&#xA;actividad anterior." superActivities="_CjYoAUqmEeuUStZqQuD3rQ" linkToPredecessor="_tt8_UEqnEeuUStZqQuD3rQ" mandatoryInput="_KPFIbkqmEeuUStZqQuD3rQ _KPFIcEqmEeuUStZqQuD3rQ _KPFIakqmEeuUStZqQuD3rQ" output="_KPFIYkqmEeuUStZqQuD3rQ" performedPrimarilyBy="_KPEhVEqmEeuUStZqQuD3rQ _KPEhVkqmEeuUStZqQuD3rQ _KPEhUkqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPRVoEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-R9BYEUDy7SMtC-U-F5KOAw" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-R9BYEUDy7SMtC-U-F5KOAw"/>
+          <Task href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_7XXREElDEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-OdPo5MQ6k-CvBh8deBWL7A#_B5YMkElEEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-OdPo5MQ6k-CvBh8deBWL7A#_GRs3sElEEeuXepEtGW6jeg"/>
+          <selectedSteps href="uma://-OdPo5MQ6k-CvBh8deBWL7A#_N_itIElEEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_KPEhUEqmEeuUStZqQuD3rQ" name="directores_de_los_usuarios" guid="_KPEhUEqmEeuUStZqQuD3rQ" presentationName="Directores de los Usuarios" briefDescription="Los directores de usuarios aportan información sobre las necesidades del sisterma de información." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ" modifies="_KPFIaEqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPEhUUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPL2EEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-Ow0jE87TS0OavLk52IhmbQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-Ow0jE87TS0OavLk52IhmbQ"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_CXZI0ElFEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_KPEhUkqmEeuUStZqQuD3rQ" name="responsable_de_mantenimiento" guid="_KPEhUkqmEeuUStZqQuD3rQ" presentationName="Responsable de mantenimiento" briefDescription="Persona encargada del mantenimiento del software." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ" modifies="_KPFIaEqmEeuUStZqQuD3rQ _KPFIYkqmEeuUStZqQuD3rQ _KPFIZEqmEeuUStZqQuD3rQ _KPFIbEqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPEhU0qmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPKA4EqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-sbnik1W8JE52Ka7g9rWSVw" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-sbnik1W8JE52Ka7g9rWSVw"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Gao4sEObEeu3HJm-bTROfg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_KPEhVEqmEeuUStZqQuD3rQ" name="equipo_de_mantenimiento" guid="_KPEhVEqmEeuUStZqQuD3rQ" presentationName="Equipo de mantenimiento" briefDescription="Conjunto de trabajadores cuya funcion es llevar a cabo lo que se especifique en las peticiones de mantenimiento." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ" modifies="_KPFIZEqmEeuUStZqQuD3rQ _KPFIbEqmEeuUStZqQuD3rQ _KPFIYkqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPEhVUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPPgcEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_HuFUEEetEeuaEpjJwJueTw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_KPEhVkqmEeuUStZqQuD3rQ" name="jefe_del_proyecto" guid="_KPEhVkqmEeuUStZqQuD3rQ" presentationName="Jefe del proyecto" briefDescription="Persona encargada de supervisar y dirigir al equipo de mantenimiento." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ" modifies="_KPFIZEqmEeuUStZqQuD3rQ _KPFIbEqmEeuUStZqQuD3rQ _KPFIYkqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPEhV0qmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPO5YEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-tgPLU9wbEX-fAsehV8Uu0Q" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-tgPLU9wbEX-fAsehV8Uu0Q"/>
+          <Role href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_b6nP8Ek7EeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIYEqmEeuUStZqQuD3rQ" name="catalogo_de_peticiones_msi_3.2" guid="_KPFIYEqmEeuUStZqQuD3rQ" presentationName="Catálogo de peticiones (MSI 3.2)" briefDescription="Catalogo de peticiones resultante del establecimiento del plan de acción (3.2)" isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIYUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPILsEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_g2P0wElBEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIYkqmEeuUStZqQuD3rQ" name="evaluacion_del_cambio" guid="_KPFIYkqmEeuUStZqQuD3rQ" presentationName="Evaluación del cambio" briefDescription="Documento en el que se va recogiendo el desarrollo de la integracion de los cambios, su impacto en el producto y su efectividad." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIY0qmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPIywEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_pl4XAElEEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIZEqmEeuUStZqQuD3rQ" name="evaluacion_del_resultado_de_las_pruebas_de_regresion" guid="_KPFIZEqmEeuUStZqQuD3rQ" presentationName="Evaluación del Resultado de las Pruebas de Regresión" briefDescription="Estudio de los resultados de las pruebas de egresion, es decir, qué implica que las pruabs hayan pasado o no. Esta evaluacion sera enviada al responsable de pruebas para arreglar los fallos que se hayan podido dar." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIZUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPJZ0EqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_S4rJ0ElFEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIZkqmEeuUStZqQuD3rQ" name="plan_de_pruebas_de_regresion" guid="_KPFIZkqmEeuUStZqQuD3rQ" presentationName="Plan de pruebas de regresión" isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIZ0qmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPLPAEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_vWfVoElCEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIaEqmEeuUStZqQuD3rQ" name="catlogo_de_peticiones_msi_4.3" guid="_KPFIaEqmEeuUStZqQuD3rQ" presentationName="Catálogo de peticiones (MSI 4.3)" isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIaUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPMdIEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_akBE4ElFEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIakqmEeuUStZqQuD3rQ" name="producto_software" guid="_KPFIakqmEeuUStZqQuD3rQ" presentationName="Producto Software" briefDescription="Producto que provee el cliente sobre el que se va a realizar el mantenimiento." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIa0qmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPOSUEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_s5v7gElEEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIbEqmEeuUStZqQuD3rQ" name="resultado_de_las_pruebas_de_regresion" guid="_KPFIbEqmEeuUStZqQuD3rQ" presentationName="Resultado de las Pruebas de Regresión" briefDescription="Documento que recoge el estado final del producto tras la aplicacion de las pruebas de regresion, es decir, sus resultados (han funcionado o no)" isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIbUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPQHgEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Ne5BsElFEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIbkqmEeuUStZqQuD3rQ" name="analisis_del_impacto_de_los_cambios" guid="_KPFIbkqmEeuUStZqQuD3rQ" presentationName="Análisis del impacto de los cambios" briefDescription="Documento que recopila y explica en detalle el impacto sobre los sistemas de información y otros elementos del entorno del producto que trendran los cambios que se realizarán durante el mantenimiento." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIb0qmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPR8sEqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_75ya8Ek-EeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_KPFIcEqmEeuUStZqQuD3rQ" name="plan_de_accion_para_la_modificacion" guid="_KPFIcEqmEeuUStZqQuD3rQ" presentationName="Plan de acción para la modificación" briefDescription="Documento que formaliza el plan de accion (pasos a seguir) para aplicar los cambios. Recoge el procedimiento que se usará posteriormente para integrar los cambios en el producto." isPlanned="false" superActivities="_CjYoAUqmEeuUStZqQuD3rQ">
+          <methodElementProperty xmi:id="_KPFIcUqmEeuUStZqQuD3rQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_KPTK0EqmEeuUStZqQuD3rQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_lb_Q0ElBEeuXepEtGW6jeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lLhgsEqmEeuUStZqQuD3rQ" guid="_lLhgsEqmEeuUStZqQuD3rQ" pred="_6PqeUUqlEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dDMSMEqnEeuUStZqQuD3rQ" guid="_dDMSMEqnEeuUStZqQuD3rQ" pred="_KPD6QkqmEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dkwHIEqnEeuUStZqQuD3rQ" guid="_dkwHIEqnEeuUStZqQuD3rQ" pred="_KPD6QUqmEeuUStZqQuD3rQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tt8_UEqnEeuUStZqQuD3rQ" guid="_tt8_UEqnEeuUStZqQuD3rQ" pred="__LEBUEqlEeuUStZqQuD3rQ"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_PvVhYUqlEeuUStZqQuD3rQ" name="Mantenimiento" guid="_PvVhYUqlEeuUStZqQuD3rQ" presentationName="Mantenimiento" superActivities="_Grap0UqlEeuUStZqQuD3rQ" breakdownElements="_W_92YUqlEeuUStZqQuD3rQ _0MurgUqlEeuUStZqQuD3rQ _6PqeUUqlEeuUStZqQuD3rQ _CjYoAUqmEeuUStZqQuD3rQ"/>
     </childPackages>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_G8A4sUOhEeuqG6BlZi_RfA" name="MSI" guid="_G8A4sUOhEeuqG6BlZi_RfA" presentationName="MSI" breakdownElements="_K-WswUOhEeuqG6BlZi_RfA">
-      <presentation xmi:id="-H_CL9cLhZBnzH2nbTh2scg" href="uma://-H_CL9cLhZBnzH2nbTh2scg#-H_CL9cLhZBnzH2nbTh2scg"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_Grap0UqlEeuUStZqQuD3rQ" name="MSI" guid="_Grap0UqlEeuUStZqQuD3rQ" presentationName="MSI" breakdownElements="_PvVhYUqlEeuUStZqQuD3rQ">
+      <presentation xmi:id="-ka0U0pkYCLmCVgIqJhQoUQ" href="uma://-ka0U0pkYCLmCVgIqJhQoUQ#-ka0U0pkYCLmCVgIqJhQoUQ"/>
+      <defaultContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_6pE5UEqkEeuUStZqQuD3rQ"/>
+      <validContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_6pE5UEqkEeuUStZqQuD3rQ"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>
 </xmi:XMI>

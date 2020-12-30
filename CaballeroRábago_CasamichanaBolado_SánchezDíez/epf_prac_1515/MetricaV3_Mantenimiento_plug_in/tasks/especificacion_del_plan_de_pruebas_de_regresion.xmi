@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PKQenPrqZcf_4Pmpnq2_uw" name=",_R9tdwElCEeuXepEtGW6jeg" guid="-PKQenPrqZcf_4Pmpnq2_uw">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PKQenPrqZcf_4Pmpnq2_uw" name=",_R9tdwElCEeuXepEtGW6jeg" guid="-PKQenPrqZcf_4Pmpnq2_uw" changeDate="2020-12-30T14:03:21.164+0100">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Los casos de prueba aseguran que la nueva versión satisface las&lt;br />&#xD;
+necesidades planteadas al considerar, a su vez, los sistemas de información que no han sido&lt;br />&#xD;
+modificados pero están directamente relacionados con ellos y, en consecuencia, pueden verse&lt;br />&#xD;
+afectados.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
   <sections xmi:id="_n_jkUElCEeuXepEtGW6jeg" name="Especificar casos de prueba" guid="_n_jkUElCEeuXepEtGW6jeg">
     <sectionDescription>Dichos casos se establecerán en&amp;nbsp;función de las relaciones existentes entre los distintos componentes identificados en&#xD;
 la tarea anterior</sectionDescription>

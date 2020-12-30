@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cjclotKZNVXbAf7dN81lbA" name=",_KFVfMEk1EeuUcMl77XK-lQ" guid="-cjclotKZNVXbAf7dN81lbA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cjclotKZNVXbAf7dN81lbA" name=",_KFVfMEk1EeuUcMl77XK-lQ" guid="-cjclotKZNVXbAf7dN81lbA" changeDate="2020-12-30T13:43:15.883+0100">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>A partir del catálogo de peticiones, y para cada una de ellas, se estima su alcance valorando&#xD;
+la&lt;br />&#xD;
+prioridad inicialmente asignada, de acuerdo a los requisitos planteados&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
   <sections xmi:id="_Sf4-wEk3EeuUcMl77XK-lQ" name="Analizar relacion entre peticiones y decidir cuales atender" guid="_Sf4-wEk3EeuUcMl77XK-lQ"/>
   <sections xmi:id="_cC7bQEk3EeuUcMl77XK-lQ" name="Asignar prioridades y sevuencia a las peticiones" guid="_cC7bQEk3EeuUcMl77XK-lQ"/>
   <sections xmi:id="_0A9hsEk3EeuUcMl77XK-lQ" name="Concretar los requisitos para cada petición" guid="_0A9hsEk3EeuUcMl77XK-lQ"/>

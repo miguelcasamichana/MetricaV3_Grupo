@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RyDrCixyoPfXGtevJgiymQ" name=",_0JJ6wEk_EeuXepEtGW6jeg" guid="-RyDrCixyoPfXGtevJgiymQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RyDrCixyoPfXGtevJgiymQ" name=",_0JJ6wEk_EeuXepEtGW6jeg" guid="-RyDrCixyoPfXGtevJgiymQ" changeDate="2020-12-30T14:01:46.543+0100">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>Se identifican las actividades y tareas de los procesos de desarrollo que es preciso realizar,&#xD;
+    en&lt;br />&#xD;
+    función de las características, complejidad y alcance de la petición estudiada, así como del plan&lt;br />&#xD;
+    de mantenimiento establecido para los sistemas de información implicados.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>&lt;span class=&quot;fontstyle0&quot;>Tras eso se aplican los indicadores establecidos para el&lt;br />&#xD;
+    conjunto de componentes afectados, realizando los reajustes que oportunos.&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>&lt;span class=&quot;fontstyle0&quot;>&lt;span class=&quot;fontstyle0&quot;>Finalmente, se definen puntos de control que&#xD;
+    permiten hacer un seguimiento del plan de trabajo&lt;br />&#xD;
+    durante la implementación de la modificación.&lt;/span>&lt;/span>&amp;nbsp;&lt;br&#xD;
+    style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+    &lt;/span>&lt;br&#xD;
+    style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_8veQUEk_EeuXepEtGW6jeg" name="Se identifican las actividades y tareas de los procesos pertinentes" guid="_8veQUEk_EeuXepEtGW6jeg">
     <sectionDescription>Estudio de Viabilidad del Sistema, Análisis del Sistema de Información, Diseño del Sistema de Información, Construcción del&#xD;
 Sistema de Información e Implantación y Aceptación del Sistema.</sectionDescription>

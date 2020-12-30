@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fSa4GWgsbo4jOmwtut7jdA" name=",_ZV7QMEk8EeuXepEtGW6jeg" guid="-fSa4GWgsbo4jOmwtut7jdA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fSa4GWgsbo4jOmwtut7jdA" name=",_ZV7QMEk8EeuXepEtGW6jeg" guid="-fSa4GWgsbo4jOmwtut7jdA" changeDate="2020-12-30T13:53:47.583+0100">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Se realiza un análisis detallado del impacto de la petición, con el fin de conocer el alcance real&#xD;
+de&lt;br />&#xD;
+la modificación en función del número, características y relaciones existentes entre los elementos&lt;br />&#xD;
+afectados.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
   <sections xmi:id="_JCDjoEk9EeuXepEtGW6jeg" name="Se analizan las estimaciones del proceso &quot;Análisis del Sistema de Información&quot;" guid="_JCDjoEk9EeuXepEtGW6jeg"/>
   <sections xmi:id="_Nt8D8Ek9EeuXepEtGW6jeg" name="Determinar en el análisis el alcance del impacto de los elementos afectados" guid="_Nt8D8Ek9EeuXepEtGW6jeg">
     <sectionDescription>&lt;p>&#xD;

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JLdUwIqTN3zAnQk6cBhhtA" name="directores_de_los_usuarios,_CXZI0ElFEeuXepEtGW6jeg" guid="-JLdUwIqTN3zAnQk6cBhhtA" changeDate="2020-12-30T13:33:25.894+0100">
+  <mainDescription>Los Directores de las áreas organizativas y de usuarios afectadas por el proyecto aportan información sobre las necesidades&#xD;
+planteadas y validan los resultados con el fin de garantizar la identificación, comprensión e incorporación de todos los&#xD;
+requisitos con las prioridades adecuadas.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

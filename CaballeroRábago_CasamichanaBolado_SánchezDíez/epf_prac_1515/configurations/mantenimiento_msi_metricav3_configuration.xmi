@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_W4nxQEOfEeuqG6BlZi_RfA" name="MetricaV3_Mantenimiento_Configuration" guid="_W4nxQEOfEeuqG6BlZi_RfA">
-  <methodElementProperty xmi:id="_X9MMoEOfEeuqG6BlZi_RfA" name="TouchedByConfigEditor" value="true"/>
-  <methodElementProperty xmi:id="_X9NawEOfEeuqG6BlZi_RfA" name="Config_doneLoadCheckPkgs" value="_fhnZoEOaEeu3HJm-bTROfg"/>
-  <methodElementProperty xmi:id="_Zr3U8EOfEeuqG6BlZi_RfA" name="me_edited" value="true"/>
+<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_6pE5UEqkEeuUStZqQuD3rQ" name="mantenimiento_msi_metricav3_configuration" guid="_6pE5UEqkEeuUStZqQuD3rQ" presentationName="Mantenimiento Configuration">
+  <methodElementProperty xmi:id="_8NU6UEqkEeuUStZqQuD3rQ" name="TouchedByConfigEditor" value="true"/>
+  <methodElementProperty xmi:id="_8NU6UUqkEeuUStZqQuD3rQ" name="Config_doneLoadCheckPkgs" value="_fhnZoEOaEeu3HJm-bTROfg"/>
+  <methodElementProperty xmi:id="_8nJIgEqkEeuUStZqQuD3rQ" name="no_update_on_click" value="false"/>
+  <methodElementProperty xmi:id="_8nJvkEqkEeuUStZqQuD3rQ" name="update_on_click" value="true"/>
+  <methodElementProperty xmi:id="_CMXroEqlEeuUStZqQuD3rQ" name="me_edited" value="true"/>
   <methodPluginSelection href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sMEOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sPUOaEeu3HJm-bTROfg"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_fhnZoEOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sPkOaEeu3HJm-bTROfg"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_fhnZoEOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sMUOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sPEOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sNUOaEeu3HJm-bTROfg"/>
@@ -18,5 +20,5 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sOUOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sOEOaEeu3HJm-bTROfg"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_Zz8sMEOaEeu3HJm-bTROfg#_Zz8sOkOaEeu3HJm-bTROfg"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_G8A4sEOhEeuqG6BlZi_RfA#_G8A4sEOhEeuqG6BlZi_RfA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_Grap0EqlEeuUStZqQuD3rQ#_Grap0EqlEeuUStZqQuD3rQ"/>
 </org.eclipse.epf.uma:MethodConfiguration>

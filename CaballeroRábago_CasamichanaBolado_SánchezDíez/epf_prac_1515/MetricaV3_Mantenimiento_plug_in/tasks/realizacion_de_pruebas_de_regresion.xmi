@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JE4LStLOqxdkpiWPJ0sJTQ" name=",_hjGW4ElFEeuXepEtGW6jeg" guid="-JE4LStLOqxdkpiWPJ0sJTQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JE4LStLOqxdkpiWPJ0sJTQ" name=",_hjGW4ElFEeuXepEtGW6jeg" guid="-JE4LStLOqxdkpiWPJ0sJTQ" changeDate="2020-12-30T14:19:28.733+0100">
+  <mainDescription>&lt;span class=&quot;fontstyle0&quot;>Se realizan las pruebas de regresión definidas en la actividad anterior con el objeto de asegurar&#xD;
+que ningún sistema de información implicado en el cambio ve comprometido su funcionamiento normal.&lt;/span> &lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;span class=&quot;fontstyle0&quot;>En el caso de detectarse problemas, se elabora un informe que recoge las incidencias.&lt;/span>&lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+&#xD;
+&lt;span class=&quot;fontstyle0&quot;>Una vez que el comportamiento es correcto, se documenta el resultado global de la&lt;br />&#xD;
+evaluación.&lt;/span>&lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</mainDescription>
   <sections xmi:id="_nQYCwElFEeuXepEtGW6jeg" name="Se realizan las pruebas de regresión" guid="_nQYCwElFEeuXepEtGW6jeg">
     <sectionDescription>Estas pruebas están definidas en la actividad anterior.</sectionDescription>
   </sections>
