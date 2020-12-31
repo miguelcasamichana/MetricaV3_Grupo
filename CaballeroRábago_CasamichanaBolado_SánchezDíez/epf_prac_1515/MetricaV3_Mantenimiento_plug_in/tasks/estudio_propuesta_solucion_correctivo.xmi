@@ -2,17 +2,17 @@
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wuJKxLpbqRFQEkxFlNRDXQ" name=",_RsT3oEk1EeuUcMl77XK-lQ" guid="-wuJKxLpbqRFQEkxFlNRDXQ" changeDate="2020-12-30T13:42:40.443+0100">
   <mainDescription>&lt;span class=&quot;fontstyle0&quot;>A partir del catálogo de peticiones, y para cada una de ellas, se estima su alcance valorando&#xD;
 la&lt;br />&#xD;
-prioridad inicialmente asignada, de acuerdo a los requisitos planteados&lt;/span> &lt;br&#xD;
+prioridad inicialmente asignada, de acuerdo a los requisitos planteados.&lt;/span> &lt;br&#xD;
 style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
 </mainDescription>
-  <sections xmi:id="_2YFfMEk5EeuUcMl77XK-lQ" name="Analizar relacion entre peticiones y decidir cuales atender" guid="_2YFfMEk5EeuUcMl77XK-lQ"/>
-  <sections xmi:id="_3W4pwEk5EeuUcMl77XK-lQ" name="Asignar prioridades y sevuencia a las peticiones" guid="_3W4pwEk5EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_2YFfMEk5EeuUcMl77XK-lQ" name="Analizar relación entre peticiones y decidir cuáles atender" guid="_2YFfMEk5EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_3W4pwEk5EeuUcMl77XK-lQ" name="Asignar prioridades y secuencia a las peticiones" guid="_3W4pwEk5EeuUcMl77XK-lQ"/>
   <sections xmi:id="_4hpMsEk5EeuUcMl77XK-lQ" name="Concretar los requisitos para cada petición" guid="_4hpMsEk5EeuUcMl77XK-lQ"/>
   <sections xmi:id="_56cysEk5EeuUcMl77XK-lQ" name="Comprobar la existencia de otras peticiones en curso que afecten" guid="_56cysEk5EeuUcMl77XK-lQ"/>
   <sections xmi:id="_7icEMEk5EeuUcMl77XK-lQ" name="Analizar el impacto que tengan los cambios en el entorno tecnológico" guid="_7icEMEk5EeuUcMl77XK-lQ"/>
-  <sections xmi:id="_bFxvIEk6EeuUcMl77XK-lQ" name="Hacer estimacion del esfuerzo requerido" guid="_bFxvIEk6EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_bFxvIEk6EeuUcMl77XK-lQ" name="Hacer estimación del esfuerzo requerido" guid="_bFxvIEk6EeuUcMl77XK-lQ"/>
   <sections xmi:id="_IWYQwEk6EeuUcMl77XK-lQ" name="Si la peticion es crítica se atiende hasta solucionarla" guid="_IWYQwEk6EeuUcMl77XK-lQ">
-    <sectionDescription>Se considera que se ha cerrado la peticion cuando, &lt;span class=&quot;fontstyle0&quot;>o bien se compruebe que con dicha solución&#xD;
+    <sectionDescription>Se considera que se ha cerrado la petición cuando, &lt;span class=&quot;fontstyle0&quot;>o bien se compruebe que con dicha solución&#xD;
 el&lt;br />&#xD;
 sistema no se ha visto comprometido ni tampoco otros sistemas relacionados con él, o bien que&lt;br />&#xD;
 después de haber aplicado una solución a corto/medio plazo y realizadas las pruebas pertinentes,&lt;br />&#xD;
@@ -21,8 +21,8 @@ el sistema conserva su integridad y operatividad.&lt;/span>&lt;br style=&quot;FO
   </sections>
   <sections xmi:id="_T40ZMEk6EeuUcMl77XK-lQ" name="Atender el resto de actividades" guid="_T40ZMEk6EeuUcMl77XK-lQ"/>
   <sections xmi:id="_c9amMEk6EeuUcMl77XK-lQ" name="Propuesta de soluciones alternativas" guid="_c9amMEk6EeuUcMl77XK-lQ"/>
-  <sections xmi:id="_f2MxMEk6EeuUcMl77XK-lQ" name="Eleccion de solucion y aceptacion o rechazo de la petición" guid="_f2MxMEk6EeuUcMl77XK-lQ">
+  <sections xmi:id="_f2MxMEk6EeuUcMl77XK-lQ" name="Elección de solución y aceptación o rechazo de la petición" guid="_f2MxMEk6EeuUcMl77XK-lQ">
     <sectionDescription>Al igual que anteriormente, al haber dos formas de mantenimiento se da lugar a dos formas diferentes de hacer esta tarea:&#xD;
-de forma correctiva o evolutiva</sectionDescription>
+de forma correctiva o evolutiva.</sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>

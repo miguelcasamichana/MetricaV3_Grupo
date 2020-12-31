@@ -6,9 +6,9 @@
 &lt;p>&#xD;
     Ya que hay dos formas de hacer mantenimiento, esta tarea se indica de forma separada al caso evolutivo.&#xD;
 &lt;/p></mainDescription>
-  <sections xmi:id="_-G0ysEkcEeuUcMl77XK-lQ" name="Verificar si la informacion es correcta" guid="_-G0ysEkcEeuUcMl77XK-lQ"/>
+  <sections xmi:id="_-G0ysEkcEeuUcMl77XK-lQ" name="Verificar si la información es correcta" guid="_-G0ysEkcEeuUcMl77XK-lQ"/>
   <sections xmi:id="_MY5KIEkdEeuUcMl77XK-lQ" name="Reproducir el problema" guid="_MY5KIEkdEeuUcMl77XK-lQ"/>
   <sections xmi:id="_p_kUEEkdEeuUcMl77XK-lQ" name="Comienzo de estudio: se establece hasta que punto es un problema crítico" guid="_p_kUEEkdEeuUcMl77XK-lQ"/>
   <sections xmi:id="_0SIwEEkdEeuUcMl77XK-lQ" name="Si es crítico se comienza analisis y solución inmediatamente" guid="_0SIwEEkdEeuUcMl77XK-lQ"/>
-  <sections xmi:id="_8h8qIEkdEeuUcMl77XK-lQ" name="Si no es crítico se clasifica para resolverlo cuando se tenga la solución mas adecuada" guid="_8h8qIEkdEeuUcMl77XK-lQ"/>
+  <sections xmi:id="_8h8qIEkdEeuUcMl77XK-lQ" name="Si no es crítico se clasifica para resolverlo cuando se tenga la solución más adecuada" guid="_8h8qIEkdEeuUcMl77XK-lQ"/>
 </org.eclipse.epf.uma:TaskDescription>

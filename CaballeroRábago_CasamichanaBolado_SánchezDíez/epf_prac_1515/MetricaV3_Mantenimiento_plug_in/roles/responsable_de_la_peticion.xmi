@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iOwmbDyTWQzl0Rc3H0JHWw" name="new_role,_gsgDsEkREeuUcMl77XK-lQ" guid="-iOwmbDyTWQzl0Rc3H0JHWw" changeDate="2020-12-28T15:17:41.122+0100">
-  <mainDescription>Esta persona será asignada para que&amp;nbsp;atender la petición para su posterior estudio. Solo se asigna si la peticion es&#xD;
+  <mainDescription>Esta persona será asignada para atender la petición de cara a su posterior estudio. Sólo se asigna si la petición es&#xD;
 aceptada.</mainDescription>
 </org.eclipse.epf.uma:RoleDescription>

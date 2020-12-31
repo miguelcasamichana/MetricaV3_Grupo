@@ -5,17 +5,17 @@ la&lt;br />&#xD;
 prioridad inicialmente asignada, de acuerdo a los requisitos planteados&lt;/span> &lt;br&#xD;
 style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
 </mainDescription>
-  <sections xmi:id="_Sf4-wEk3EeuUcMl77XK-lQ" name="Analizar relacion entre peticiones y decidir cuales atender" guid="_Sf4-wEk3EeuUcMl77XK-lQ"/>
-  <sections xmi:id="_cC7bQEk3EeuUcMl77XK-lQ" name="Asignar prioridades y sevuencia a las peticiones" guid="_cC7bQEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_Sf4-wEk3EeuUcMl77XK-lQ" name="Analizar relación entre peticiones y decidir cuáles atender" guid="_Sf4-wEk3EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_cC7bQEk3EeuUcMl77XK-lQ" name="Asignar prioridades y secuencia a las peticiones" guid="_cC7bQEk3EeuUcMl77XK-lQ"/>
   <sections xmi:id="_0A9hsEk3EeuUcMl77XK-lQ" name="Concretar los requisitos para cada petición" guid="_0A9hsEk3EeuUcMl77XK-lQ"/>
   <sections xmi:id="_29kcwEk3EeuUcMl77XK-lQ" name="Comprobar la existencia de otras peticiones en curso que afecten" guid="_29kcwEk3EeuUcMl77XK-lQ"/>
-  <sections xmi:id="_tXAVsEk4EeuUcMl77XK-lQ" name="Hacer estimacion del esfuerzo requerido" guid="_tXAVsEk4EeuUcMl77XK-lQ"/>
+  <sections xmi:id="_tXAVsEk4EeuUcMl77XK-lQ" name="Hacer estimación del esfuerzo requerido" guid="_tXAVsEk4EeuUcMl77XK-lQ"/>
   <sections xmi:id="_4-krMEk3EeuUcMl77XK-lQ" name="Analizar el impacto que tengan los cambios en el entorno tecnológico" guid="_4-krMEk3EeuUcMl77XK-lQ"/>
   <sections xmi:id="_MOHCMEk4EeuUcMl77XK-lQ" name="Estudiar procedimiento según la política de versiones" guid="_MOHCMEk4EeuUcMl77XK-lQ"/>
   <sections xmi:id="_V7iJwEk4EeuUcMl77XK-lQ" name="Incorporación o eliminación" guid="_V7iJwEk4EeuUcMl77XK-lQ">
     <sectionDescription>&lt;p>&#xD;
-    &lt;span class=&quot;fontstyle0&quot;>Si se trata de una incorporación o&lt;br />&#xD;
-    eliminación, se determina la necesidad de llevar a cabo algunas actividades del proceso Análisis&lt;br />&#xD;
+    &lt;span class=&quot;fontstyle0&quot;>Si se trata de una incorporación o eliminación, se determina la necesidad de llevar a cabo&#xD;
+    algunas actividades del proceso Análisis&lt;br />&#xD;
     del Sistema de Información de modo previo a la identificación de los elementos afectados.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
@@ -23,9 +23,11 @@ style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-T
     Sistema&lt;br />&#xD;
     atendiendo a los requisitos a cubrir, al alcance de la modificación, a las implicaciones en el&lt;br />&#xD;
     entorno tecnológico, y al ciclo de vida estimado para los sistemas de información afectados, así&lt;br />&#xD;
-    como a la existencia de opciones de mercado más idóneas.&lt;/span>&lt;br     style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+    como a la existencia de opciones de mercado más idóneas.&lt;/span>&lt;br&#xD;
+    style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
 &#xD;
-    &lt;br     style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+    &lt;br&#xD;
+    style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
 &#xD;
 &lt;/p></sectionDescription>
   </sections>
