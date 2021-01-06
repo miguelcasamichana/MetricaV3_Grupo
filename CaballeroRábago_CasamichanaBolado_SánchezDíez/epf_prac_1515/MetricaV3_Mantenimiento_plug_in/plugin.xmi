@@ -26,19 +26,38 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sMUOaEeu3HJm-bTROfg" name="Content" guid="_Zz8sMUOaEeu3HJm-bTROfg">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sMkOaEeu3HJm-bTROfg" name="Categories" guid="_Zz8sMkOaEeu3HJm-bTROfg">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sM0OaEeu3HJm-bTROfg" name="Domains" guid="_Zz8sM0OaEeu3HJm-bTROfg"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNEOaEeu3HJm-bTROfg" name="Disciplines" guid="_Zz8sNEOaEeu3HJm-bTROfg"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNUOaEeu3HJm-bTROfg" name="RoleSets" guid="_Zz8sNUOaEeu3HJm-bTROfg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNEOaEeu3HJm-bTROfg" name="Disciplines" guid="_Zz8sNEOaEeu3HJm-bTROfg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_JDtSoFBSEeuSPLzcA-Axmg" name="mantenimiento_tareas" guid="_JDtSoFBSEeuSPLzcA-Axmg" presentationName="Mantenimiento tareas" conceptsAndPapers="__OsyQEOhEeuqG6BlZi_RfA __2HmQElBEeuXepEtGW6jeg" checklists="_HQLrcEk_EeuXepEtGW6jeg" guidelines="_GFyQsElGEeuXepEtGW6jeg _I2C5AEkeEeuUcMl77XK-lQ" tasks="_Vf51UElGEeuXepEtGW6jeg _whCigEeoEeuaEpjJwJueTw _R9tdwElCEeuXepEtGW6jeg _0JJ6wEk_EeuXepEtGW6jeg _RsT3oEk1EeuUcMl77XK-lQ _KFVfMEk1EeuUcMl77XK-lQ _ZV7QMEk8EeuXepEtGW6jeg _hjGW4ElFEeuXepEtGW6jeg _0P94AEOaEeu3HJm-bTROfg _7XXREElDEeuXepEtGW6jeg _B_mjwEesEeuaEpjJwJueTw _XzAdAEkdEeuUcMl77XK-lQ">
+            <methodElementProperty xmi:id="_OvRuUFBSEeuSPLzcA-Axmg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNUOaEeu3HJm-bTROfg" name="RoleSets" guid="_Zz8sNUOaEeu3HJm-bTROfg">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_3qGigFBREeuSPLzcA-Axmg" name="trabajadores" guid="_3qGigFBREeuSPLzcA-Axmg" presentationName="Trabajadores" briefDescription="Se agrupan todos los encargados de participar en el mantenimiento" roles="_CXZI0ElFEeuXepEtGW6jeg _HuFUEEetEeuaEpjJwJueTw _b6nP8Ek7EeuXepEtGW6jeg _gsgDsEkREeuUcMl77XK-lQ _Gao4sEObEeu3HJm-bTROfg">
+            <methodElementProperty xmi:id="_88K5EFBREeuSPLzcA-Axmg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sNkOaEeu3HJm-bTROfg" name="WP Types" guid="_Zz8sNkOaEeu3HJm-bTROfg">
           <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_5fMmUEqHEeuUStZqQuD3rQ" name="catalogos_de_peticiones" guid="_5fMmUEqHEeuUStZqQuD3rQ" presentationName="Catalogos de peticiones" workProducts="_vTVl8EOaEeu3HJm-bTROfg _v3RXQEhtEeuBA--oqPZ12w _Cp5wwEknEeuUcMl77XK-lQ _geShYEk5EeuUcMl77XK-lQ _p1nq4Ek-EeuXepEtGW6jeg _g2P0wElBEeuXepEtGW6jeg _akBE4ElFEeuXepEtGW6jeg">
             <methodElementProperty xmi:id="_ktLTcEqIEeuUStZqQuD3rQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_-WT70FBREeuSPLzcA-Axmg" name="otros" guid="_-WT70FBREeuSPLzcA-Axmg" presentationName="Otros" workProducts="_9fojEEesEeuaEpjJwJueTw _75ya8Ek-EeuXepEtGW6jeg _vTVl8EOaEeu3HJm-bTROfg _pl4XAElEEeuXepEtGW6jeg _S4rJ0ElFEeuXepEtGW6jeg _okFDMEObEeu3HJm-bTROfg _lb_Q0ElBEeuXepEtGW6jeg _8kdboEepEeuaEpjJwJueTw _vWfVoElCEeuXepEtGW6jeg _s5v7gElEEeuXepEtGW6jeg _TqiiEEk5EeuUcMl77XK-lQ _Ne5BsElFEeuXepEtGW6jeg _BCcigEetEeuaEpjJwJueTw">
+            <methodElementProperty xmi:id="_e5i9gFBSEeuSPLzcA-Axmg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sN0OaEeu3HJm-bTROfg" name="Tools" guid="_Zz8sN0OaEeu3HJm-bTROfg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sOEOaEeu3HJm-bTROfg" name="StandardCategories" guid="_Zz8sOEOaEeu3HJm-bTROfg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sOUOaEeu3HJm-bTROfg" name="CustomCategories" guid="_Zz8sOUOaEeu3HJm-bTROfg">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sOkOaEeu3HJm-bTROfg" name="Hidden" guid="_Zz8sOkOaEeu3HJm-bTROfg">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Zz8sO0OaEeu3HJm-bTROfg" name="Custom Categories" guid="_Zz8sO0OaEeu3HJm-bTROfg"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Zz8sO0OaEeu3HJm-bTROfg" name="Custom Categories" guid="_Zz8sO0OaEeu3HJm-bTROfg" categorizedElements="_SJjHsFBQEeuSPLzcA-Axmg"/>
           </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_SJjHsFBQEeuSPLzcA-Axmg" name="mantenimiento_category" guid="_SJjHsFBQEeuSPLzcA-Axmg" presentationName="Mantenimiento Category">
+            <methodElementProperty xmi:id="_l8EP8FBQEeuSPLzcA-Axmg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_JDtSoFBSEeuSPLzcA-Axmg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_3qGigFBREeuSPLzcA-Axmg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_5fMmUEqHEeuUStZqQuD3rQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_-WT70FBREeuSPLzcA-Axmg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_Grap0EqlEeuUStZqQuD3rQ#_Grap0UqlEeuUStZqQuD3rQ"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Zz8sPEOaEeu3HJm-bTROfg" name="CoreContent" guid="_Zz8sPEOaEeu3HJm-bTROfg">

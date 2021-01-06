@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_tL5IME-WEeuYro1YNXX7ew" name="MSI">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_tL5IMU-WEeuYro1YNXX7ew" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_tL5IMk-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_Grap0UqlEeuUStZqQuD3rQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_tL5IM0-WEeuYro1YNXX7ew" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_tOCdQE-WEeuYro1YNXX7ew" name="Mantenimiento">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_tOCdQU-WEeuYro1YNXX7ew" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_tOCdQk-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_PvVhYUqlEeuUStZqQuD3rQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_tOCdQ0-WEeuYro1YNXX7ew" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_tL8ykE-WEeuYro1YNXX7ew" type="AD" element="_tL5IME-WEeuYro1YNXX7ew" name="MSI" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_tL8ykU-WEeuYro1YNXX7ew"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_tL8ykk-WEeuYro1YNXX7ew"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_tL9ZoE-WEeuYro1YNXX7ew"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_ujw6EE-WEeuYro1YNXX7ew" name="Mantenimiento">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ujw6EU-WEeuYro1YNXX7ew" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ujw6Ek-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_PvVhYUqlEeuUStZqQuD3rQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ujw6E0-WEeuYro1YNXX7ew" key="type" value="Phase"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_uj9HUE-WEeuYro1YNXX7ew" name="Registro de la petición" outgoing="_uj9uYU-WEeuYro1YNXX7ew">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uj9HUU-WEeuYro1YNXX7ew" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HUk-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_W_92YUqlEeuUStZqQuD3rQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HU0-WEeuYro1YNXX7ew" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_uj9HVE-WEeuYro1YNXX7ew" name="Análisis de la petición" outgoing="_uj9uYk-WEeuYro1YNXX7ew" incoming="_uj9uYU-WEeuYro1YNXX7ew">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uj9HVU-WEeuYro1YNXX7ew" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HVk-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_0MurgUqlEeuUStZqQuD3rQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HV0-WEeuYro1YNXX7ew" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_uj9HWE-WEeuYro1YNXX7ew" name="Preparación de la implementación de la modificación" outgoing="_uj9uYE-WEeuYro1YNXX7ew" incoming="_uj9uYk-WEeuYro1YNXX7ew">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uj9HWU-WEeuYro1YNXX7ew" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HWk-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_6PqeUUqlEeuUStZqQuD3rQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HW0-WEeuYro1YNXX7ew" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_uj9HXE-WEeuYro1YNXX7ew" name="Seguimiento y evaluación de los cambios hasta la aceptación" incoming="_uj9uYE-WEeuYro1YNXX7ew">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uj9HXU-WEeuYro1YNXX7ew" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HXk-WEeuYro1YNXX7ew" key="uri" value="uma://_Grap0EqlEeuUStZqQuD3rQ#_CjYoAUqmEeuUStZqQuD3rQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uj9HX0-WEeuYro1YNXX7ew" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_uj9uYE-WEeuYro1YNXX7ew" source="_uj9HWE-WEeuYro1YNXX7ew" target="_uj9HXE-WEeuYro1YNXX7ew"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_uj9uYU-WEeuYro1YNXX7ew" source="_uj9HUE-WEeuYro1YNXX7ew" target="_uj9HVE-WEeuYro1YNXX7ew"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_uj9uYk-WEeuYro1YNXX7ew" source="_uj9HVE-WEeuYro1YNXX7ew" target="_uj9HWE-WEeuYro1YNXX7ew"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_ujw6FE-WEeuYro1YNXX7ew" type="AD" element="_ujw6EE-WEeuYro1YNXX7ew" name="Mantenimiento" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_ujw6FU-WEeuYro1YNXX7ew"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_ujw6Fk-WEeuYro1YNXX7ew"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ujw6F0-WEeuYro1YNXX7ew"/>
+  </notation:Diagram>
+</xmi:XMI>
